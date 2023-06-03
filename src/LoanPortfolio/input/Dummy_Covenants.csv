@@ -1,0 +1,508 @@
+borrower_id,borrower_name,borrower_sector_code,borrower_sector_description,period,period_title,covenant_type,covenant_property_name,covenant_property,covenant_property_value,covenant_property_unit
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/23,M9-FY23(A),DSCR,DSCR Actual,Actual,-11.88285413,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/23,M9-FY23(A),DSCR,DSCR Headroom,Headroom,-125.2464599,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/23,M9-FY23(A),DSCR,DSCR Status,Status,-1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/23,M9-FY23(A),DSCR,DSCR Threshold,Threshold,3,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/23,M9-FY23(A),Gross Leverage Ratio,Gross Leverage Actual,Actual,0.691833887,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/23,M9-FY23(A),Gross Leverage Ratio,Gross Leverage Headroom,Headroom,-38.36677749,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/23,M9-FY23(A),Gross Leverage Ratio,Gross Leverage Status,Status,-1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/23,M9-FY23(A),Gross Leverage Ratio,Gross Leverage Threshold,Threshold,0.5,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/23,M9-FY23(A),ICR,ICR Actual,Actual,28.27115826,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/23,M9-FY23(A),ICR,ICR Headroom,Headroom,46.94239315,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/23,M9-FY23(A),ICR,ICR Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/23,M9-FY23(A),ICR,ICR Threshold,Threshold,15,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/23,M9-FY23(A),Minimum Cash Cover,Min. Cash Actual,Actual,1925522.07,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/23,M9-FY23(A),Minimum Cash Cover,Min. Cash Headroom,Headroom,48.06603281,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/23,M9-FY23(A),Minimum Cash Cover,Min. Cash Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/23,M9-FY23(A),Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/02/23,(B)M10-FY23,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/03/23,M11-FY23,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/23,M12-FY23,DSCR,DSCR Actual,Actual,-1.927925094,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/23,M12-FY23,DSCR,DSCR Headroom,Headroom,-364.5330991,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/23,M12-FY23,DSCR,DSCR Status,Status,-1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/23,M12-FY23,DSCR,DSCR Threshold,Threshold,5.1,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/23,M12-FY23,Gross Leverage Ratio,Gross Leverage Actual,Actual,0.359007346,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/23,M12-FY23,ICR,ICR Actual,Actual,32.64093827,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/23,M12-FY23,ICR,ICR Headroom,Headroom,95.40454387,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/23,M12-FY23,ICR,ICR Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/23,M12-FY23,ICR,ICR Threshold,Threshold,1.5,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/23,M12-FY23,Minimum Cash Cover,Min. Cash Actual,Actual,3289944.587,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/23,M12-FY23,Minimum Cash Cover,Min. Cash Headroom,Headroom,69.60435128,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/23,M12-FY23,Minimum Cash Cover,Min. Cash Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/23,M12-FY23,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/05/23,M1-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/06/23,M2-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/23,M3-FY24,DSCR,DSCR Actual,Actual,1.612931929,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/23,M3-FY24,DSCR,DSCR Headroom,Headroom,-364.9917251,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/23,M3-FY24,DSCR,DSCR Status,Status,-1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/23,M3-FY24,DSCR,DSCR Threshold,Threshold,7.5,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/23,M3-FY24,Gross Leverage Ratio,Gross Leverage Actual,Actual,0.233502401,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/23,M3-FY24,ICR,ICR Actual,Actual,37.61119687,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/23,M3-FY24,ICR,ICR Headroom,Headroom,96.01182593,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/23,M3-FY24,ICR,ICR Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/23,M3-FY24,ICR,ICR Threshold,Threshold,1.5,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/23,M3-FY24,Minimum Cash Cover,Min. Cash Actual,Actual,3556563.102,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/23,M3-FY24,Minimum Cash Cover,Min. Cash Headroom,Headroom,71.88296759,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/23,M3-FY24,Minimum Cash Cover,Min. Cash Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/23,M3-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/08/23,M4-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/09/23,M5-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/23,M6-FY24,DSCR,DSCR Actual,Actual,9.197813354,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/23,M6-FY24,DSCR,DSCR Headroom,Headroom,30.4182445,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/23,M6-FY24,DSCR,DSCR Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/23,M6-FY24,DSCR,DSCR Threshold,Threshold,6.4,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/23,M6-FY24,Gross Leverage Ratio,Gross Leverage Actual,Actual,0.159843934,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/23,M6-FY24,ICR,ICR Actual,Actual,42.90586001,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/23,M6-FY24,ICR,ICR Headroom,Headroom,96.50397405,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/23,M6-FY24,ICR,ICR Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/23,M6-FY24,ICR,ICR Threshold,Threshold,1.5,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/23,M6-FY24,Minimum Cash Cover,Min. Cash Actual,Actual,4662713.896,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/23,M6-FY24,Minimum Cash Cover,Min. Cash Headroom,Headroom,78.55326271,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/23,M6-FY24,Minimum Cash Cover,Min. Cash Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/23,M6-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/11/23,M7-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/12/23,M8-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/24,M9-FY24,DSCR,DSCR Actual,Actual,64.09048531,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/24,M9-FY24,DSCR,DSCR Headroom,Headroom,91.73044177,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/24,M9-FY24,DSCR,DSCR Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/24,M9-FY24,DSCR,DSCR Threshold,Threshold,5.3,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/24,M9-FY24,Gross Leverage Ratio,Gross Leverage Actual,Actual,0.194486791,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/24,M9-FY24,ICR,ICR Actual,Actual,52.38816907,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/24,M9-FY24,ICR,ICR Headroom,Headroom,97.13675811,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/24,M9-FY24,ICR,ICR Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/24,M9-FY24,ICR,ICR Threshold,Threshold,1.5,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/24,M9-FY24,Minimum Cash Cover,Min. Cash Actual,Actual,4882330.278,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/24,M9-FY24,Minimum Cash Cover,Min. Cash Headroom,Headroom,79.51797721,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/24,M9-FY24,Minimum Cash Cover,Min. Cash Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/01/24,M9-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/02/24,M10-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/03/24,M11-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/24,M12-FY24,DSCR,DSCR Actual,Actual,52.89820422,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/24,M12-FY24,DSCR,DSCR Headroom,Headroom,91.87117963,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/24,M12-FY24,DSCR,DSCR Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/24,M12-FY24,DSCR,DSCR Threshold,Threshold,4.3,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/24,M12-FY24,Gross Leverage Ratio,Gross Leverage Actual,Actual,0.191556552,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/24,M12-FY24,ICR,ICR Actual,Actual,52.22877661,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/24,M12-FY24,ICR,ICR Headroom,Headroom,97.12802004,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/24,M12-FY24,ICR,ICR Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/24,M12-FY24,ICR,ICR Threshold,Threshold,1.5,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/24,M12-FY24,Minimum Cash Cover,Min. Cash Actual,Actual,4975735.072,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/24,M12-FY24,Minimum Cash Cover,Min. Cash Headroom,Headroom,79.90246696,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/24,M12-FY24,Minimum Cash Cover,Min. Cash Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/04/24,M12-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/05/24,M1-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/06/24,M2-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/24,M3-FY25,DSCR,DSCR Actual,Actual,40.44184587,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/24,M3-FY25,DSCR,DSCR Headroom,Headroom,90.60379189,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/24,M3-FY25,DSCR,DSCR Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/24,M3-FY25,DSCR,DSCR Threshold,Threshold,3.8,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/24,M3-FY25,Gross Leverage Ratio,Gross Leverage Actual,Actual,0.189031556,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/24,M3-FY25,ICR,ICR Actual,Actual,51.74784182,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/24,M3-FY25,ICR,ICR Headroom,Headroom,97.10132839,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/24,M3-FY25,ICR,ICR Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/24,M3-FY25,ICR,ICR Threshold,Threshold,1.5,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/24,M3-FY25,Minimum Cash Cover,Min. Cash Actual,Actual,4312472.712,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/24,M3-FY25,Minimum Cash Cover,Min. Cash Headroom,Headroom,76.81144747,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/24,M3-FY25,Minimum Cash Cover,Min. Cash Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/07/24,M3-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/08/24,M4-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/09/24,M5-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/24,M6-FY25,DSCR,DSCR Actual,Actual,43.62070158,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/24,M6-FY25,DSCR,DSCR Headroom,Headroom,94.26877627,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/24,M6-FY25,DSCR,DSCR Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/24,M6-FY25,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/24,M6-FY25,Gross Leverage Ratio,Gross Leverage Actual,Actual,0.172611068,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/24,M6-FY25,ICR,ICR Actual,Actual,55.07620972,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/24,M6-FY25,ICR,ICR Headroom,Headroom,97.27650104,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/24,M6-FY25,ICR,ICR Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/24,M6-FY25,ICR,ICR Threshold,Threshold,1.5,NUMERIC
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/24,M6-FY25,Minimum Cash Cover,Min. Cash Actual,Actual,5371451.788,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/24,M6-FY25,Minimum Cash Cover,Min. Cash Headroom,Headroom,81.38305919,PERCENTAGE
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/24,M6-FY25,Minimum Cash Cover,Min. Cash Status,Status,1,
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/10/24,M6-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/11/24,M7-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",01/12/24,M8-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,1000000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/23,M12-FY23(A),DSCR,DSCR Actual,Actual,2.386135735,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/23,M12-FY23(A),DSCR,DSCR Headroom,Headroom,-4.771910658,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/23,M12-FY23(A),DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/23,M12-FY23(A),DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/23,M12-FY23(A),Gross Leverage Ratio,Gross Leverage Actual,Actual,3.492575903,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/23,M12-FY23(A),Gross Leverage Ratio,Gross Leverage Headroom,Headroom,2.984002692,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/23,M12-FY23(A),Gross Leverage Ratio,Gross Leverage Status,Status,0,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/23,M12-FY23(A),Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/23,M12-FY23(A),Minimum Cash Cover,Min. Cash Actual,Actual,577321,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/23,M12-FY23(A),Minimum Cash Cover,Min. Cash Headroom,Headroom,56.69653451,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/23,M12-FY23(A),Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/23,M12-FY23(A),Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/23,M12-FY23(A),Senior Leverage Ratio,Senior Leverage Actual,Actual,2.044655888,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/23,M12-FY23(A),Senior Leverage Ratio,Senior Leverage Headroom,Headroom,14.80600466,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/23,M12-FY23(A),Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/23,M12-FY23(A),Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/23,(B)M1-FY24,DSCR,DSCR Actual,Actual,2.556917325,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/23,(B)M1-FY24,DSCR,DSCR Headroom,Headroom,2.226013521,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/23,(B)M1-FY24,DSCR,DSCR Status,Status,0,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/23,(B)M1-FY24,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/23,(B)M1-FY24,Gross Leverage Ratio,Gross Leverage Actual,Actual,3.573947642,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/23,(B)M1-FY24,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,0.723676604,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/23,(B)M1-FY24,Gross Leverage Ratio,Gross Leverage Status,Status,0,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/23,(B)M1-FY24,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/23,(B)M1-FY24,Minimum Cash Cover,Min. Cash Actual,Actual,1185213.758,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/23,(B)M1-FY24,Minimum Cash Cover,Min. Cash Headroom,Headroom,78.90675852,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/23,(B)M1-FY24,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/23,(B)M1-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/23,(B)M1-FY24,Senior Leverage Ratio,Senior Leverage Actual,Actual,2.081358476,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/23,(B)M1-FY24,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,13.27673017,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/23,(B)M1-FY24,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/23,(B)M1-FY24,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/23,M2-FY24,DSCR,DSCR Actual,Actual,2.709846334,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/23,M2-FY24,DSCR,DSCR Headroom,Headroom,7.743846268,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/23,M2-FY24,DSCR,DSCR Status,Status,0,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/23,M2-FY24,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/23,M2-FY24,Gross Leverage Ratio,Gross Leverage Actual,Actual,3.397971754,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/23,M2-FY24,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,5.611895716,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/23,M2-FY24,Gross Leverage Ratio,Gross Leverage Status,Status,0,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/23,M2-FY24,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/23,M2-FY24,Minimum Cash Cover,Min. Cash Actual,Actual,1315254.498,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/23,M2-FY24,Minimum Cash Cover,Min. Cash Headroom,Headroom,80.9922718,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/23,M2-FY24,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/23,M2-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/23,M2-FY24,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.971715049,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/23,M2-FY24,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,17.84520629,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/23,M2-FY24,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/23,M2-FY24,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/23,M3-FY24,DSCR,DSCR Actual,Actual,0.903997407,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/23,M3-FY24,DSCR,DSCR Headroom,Headroom,-176.5494657,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/23,M3-FY24,DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/23,M3-FY24,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/23,M3-FY24,Gross Leverage Ratio,Gross Leverage Actual,Actual,2.806803328,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/23,M3-FY24,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,22.0332409,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/23,M3-FY24,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/23,M3-FY24,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/23,M3-FY24,Minimum Cash Cover,Min. Cash Actual,Actual,530549.8872,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/23,M3-FY24,Minimum Cash Cover,Min. Cash Headroom,Headroom,52.87907772,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/23,M3-FY24,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/23,M3-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/23,M3-FY24,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.892683225,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/23,M3-FY24,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,21.13819896,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/23,M3-FY24,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/23,M3-FY24,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/23,M4-FY24,DSCR,DSCR Actual,Actual,0.82727169,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/23,M4-FY24,DSCR,DSCR Headroom,Headroom,-202.1981811,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/23,M4-FY24,DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/23,M4-FY24,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/23,M4-FY24,Gross Leverage Ratio,Gross Leverage Actual,Actual,2.721710682,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/23,M4-FY24,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,24.3969255,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/23,M4-FY24,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/23,M4-FY24,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/23,M4-FY24,Minimum Cash Cover,Min. Cash Actual,Actual,666850.4512,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/23,M4-FY24,Minimum Cash Cover,Min. Cash Headroom,Headroom,62.51033503,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/23,M4-FY24,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/23,M4-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/23,M4-FY24,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.830029191,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/23,M4-FY24,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,23.7487837,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/23,M4-FY24,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/23,M4-FY24,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/23,M5-FY24,DSCR,DSCR Actual,Actual,0.922659492,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/23,M5-FY24,DSCR,DSCR Headroom,Headroom,-170.955864,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/23,M5-FY24,DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/23,M5-FY24,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/23,M5-FY24,Gross Leverage Ratio,Gross Leverage Actual,Actual,2.650945823,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/23,M5-FY24,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,26.36261603,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/23,M5-FY24,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/23,M5-FY24,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/23,M5-FY24,Minimum Cash Cover,Min. Cash Actual,Actual,806280.9273,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/23,M5-FY24,Minimum Cash Cover,Min. Cash Headroom,Headroom,68.99343746,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/23,M5-FY24,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/23,M5-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/23,M5-FY24,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.777249435,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/23,M5-FY24,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,25.94794021,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/23,M5-FY24,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/23,M5-FY24,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/23,M6-FY24,DSCR,DSCR Actual,Actual,0.037653534,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/23,M6-FY24,DSCR,DSCR Headroom,Headroom,-6539.482983,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/23,M6-FY24,DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/23,M6-FY24,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/23,M6-FY24,Gross Leverage Ratio,Gross Leverage Actual,Actual,2.371703608,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/23,M6-FY24,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,34.11934422,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/23,M6-FY24,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/23,M6-FY24,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/23,M6-FY24,Minimum Cash Cover,Min. Cash Actual,Actual,492966.3155,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/23,M6-FY24,Minimum Cash Cover,Min. Cash Headroom,Headroom,49.28659583,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/23,M6-FY24,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/23,M6-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/23,M6-FY24,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.730947491,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/23,M6-FY24,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,27.87718788,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/23,M6-FY24,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/23,M6-FY24,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/23,M7-FY24,DSCR,DSCR Actual,Actual,0.321814576,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/23,M7-FY24,DSCR,DSCR Headroom,Headroom,-676.8448627,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/23,M7-FY24,DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/23,M7-FY24,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/23,M7-FY24,Gross Leverage Ratio,Gross Leverage Actual,Actual,2.320151492,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/23,M7-FY24,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,35.55134745,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/23,M7-FY24,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/23,M7-FY24,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/23,M7-FY24,Minimum Cash Cover,Min. Cash Actual,Actual,638656.6157,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/23,M7-FY24,Minimum Cash Cover,Min. Cash Headroom,Headroom,60.85533386,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/23,M7-FY24,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/23,M7-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/23,M7-FY24,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.689174337,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/23,M7-FY24,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,29.61773597,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/23,M7-FY24,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/23,M7-FY24,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/23,M8-FY24,DSCR,DSCR Actual,Actual,0.441208754,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/23,M8-FY24,DSCR,DSCR Headroom,Headroom,-466.6252038,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/23,M8-FY24,DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/23,M8-FY24,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/23,M8-FY24,Gross Leverage Ratio,Gross Leverage Actual,Actual,2.273003558,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/23,M8-FY24,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,36.86101229,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/23,M8-FY24,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/23,M8-FY24,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/23,M8-FY24,Minimum Cash Cover,Min. Cash Actual,Actual,787476.828,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/23,M8-FY24,Minimum Cash Cover,Min. Cash Headroom,Headroom,68.25303411,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/23,M8-FY24,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/23,M8-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/23,M8-FY24,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.650729953,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/23,M8-FY24,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,31.21958531,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/23,M8-FY24,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/23,M8-FY24,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/23,M9-FY24,DSCR,DSCR Actual,Actual,0.565309495,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/23,M9-FY24,DSCR,DSCR Headroom,Headroom,-342.2356285,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/23,M9-FY24,DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/23,M9-FY24,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/23,M9-FY24,Gross Leverage Ratio,Gross Leverage Actual,Actual,2.229212142,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/23,M9-FY24,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,38.07744051,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/23,M9-FY24,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/23,M9-FY24,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/23,M9-FY24,Minimum Cash Cover,Min. Cash Actual,Actual,614934.148,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/23,M9-FY24,Minimum Cash Cover,Min. Cash Headroom,Headroom,59.34524033,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/23,M9-FY24,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/23,M9-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/23,M9-FY24,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.614833775,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/23,M9-FY24,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,32.71525937,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/23,M9-FY24,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/23,M9-FY24,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/23,M10-FY24,DSCR,DSCR Actual,Actual,1.084201579,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/23,M10-FY24,DSCR,DSCR Headroom,Headroom,-130.5844271,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/23,M10-FY24,DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/23,M10-FY24,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/23,M10-FY24,Gross Leverage Ratio,Gross Leverage Actual,Actual,2.146649175,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/23,M10-FY24,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,40.37085626,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/23,M10-FY24,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/23,M10-FY24,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/23,M10-FY24,Minimum Cash Cover,Min. Cash Actual,Actual,770014.1843,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/23,M10-FY24,Minimum Cash Cover,Min. Cash Headroom,Headroom,67.53306561,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/23,M10-FY24,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/23,M10-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/23,M10-FY24,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.5510304,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/23,M10-FY24,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,35.37373333,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/23,M10-FY24,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/23,M10-FY24,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/23,M11-FY24,DSCR,DSCR Actual,Actual,0.326565194,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/23,M11-FY24,DSCR,DSCR Headroom,Headroom,-665.5439236,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/23,M11-FY24,DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/23,M11-FY24,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/23,M11-FY24,Gross Leverage Ratio,Gross Leverage Actual,Actual,1.907093618,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/23,M11-FY24,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,47.02517729,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/23,M11-FY24,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/23,M11-FY24,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/23,M11-FY24,Minimum Cash Cover,Min. Cash Actual,Actual,558224.1328,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/23,M11-FY24,Minimum Cash Cover,Min. Cash Headroom,Headroom,55.21512143,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/23,M11-FY24,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/23,M11-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/23,M11-FY24,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.489132492,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/23,M11-FY24,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,37.95281282,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/23,M11-FY24,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/23,M11-FY24,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/24,M12-FY24,DSCR,DSCR Actual,Actual,-0.164096939,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/24,M12-FY24,DSCR,DSCR Headroom,Headroom,-1623.489722,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/24,M12-FY24,DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/24,M12-FY24,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/24,M12-FY24,Gross Leverage Ratio,Gross Leverage Actual,Actual,1.737381611,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/24,M12-FY24,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,51.7393997,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/24,M12-FY24,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/24,M12-FY24,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/24,M12-FY24,Minimum Cash Cover,Min. Cash Actual,Actual,487551.92,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/24,M12-FY24,Minimum Cash Cover,Min. Cash Headroom,Headroom,48.7234098,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/24,M12-FY24,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/24,M12-FY24,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/24,M12-FY24,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.429195495,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/24,M12-FY24,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,40.45018772,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/24,M12-FY24,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/01/24,M12-FY24,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/24,M1-FY25,DSCR,DSCR Actual,Actual,-0.079075722,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/24,M1-FY25,DSCR,DSCR Headroom,Headroom,-3261.526636,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/24,M1-FY25,DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/24,M1-FY25,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/24,M1-FY25,Gross Leverage Ratio,Gross Leverage Actual,Actual,1.691734759,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/24,M1-FY25,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,53.00736781,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/24,M1-FY25,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/24,M1-FY25,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/24,M1-FY25,Minimum Cash Cover,Min. Cash Actual,Actual,660399.9306,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/24,M1-FY25,Minimum Cash Cover,Min. Cash Headroom,Headroom,62.14415108,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/24,M1-FY25,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/24,M1-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/24,M1-FY25,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.389276138,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/24,M1-FY25,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,42.11349424,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/24,M1-FY25,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/02/24,M1-FY25,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/24,M2-FY25,DSCR,DSCR Actual,Actual,0.002210884,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/24,M2-FY25,DSCR,DSCR Headroom,Headroom,-112976.9344,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/24,M2-FY25,DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/24,M2-FY25,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/24,M2-FY25,Gross Leverage Ratio,Gross Leverage Actual,Actual,1.649060415,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/24,M2-FY25,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,54.19276624,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/24,M2-FY25,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/24,M2-FY25,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/24,M2-FY25,Minimum Cash Cover,Min. Cash Actual,Actual,836365.3533,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/24,M2-FY25,Minimum Cash Cover,Min. Cash Headroom,Headroom,70.10875701,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/24,M2-FY25,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/24,M2-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/24,M2-FY25,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.351884789,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/24,M2-FY25,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,43.67146713,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/24,M2-FY25,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/03/24,M2-FY25,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/24,M3-FY25,DSCR,DSCR Actual,Actual,2.242248626,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/24,M3-FY25,DSCR,DSCR Headroom,Headroom,-11.49521827,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/24,M3-FY25,DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/24,M3-FY25,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/24,M3-FY25,Gross Leverage Ratio,Gross Leverage Actual,Actual,1.582955293,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/24,M3-FY25,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,56.02901963,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/24,M3-FY25,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/24,M3-FY25,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/24,M3-FY25,Minimum Cash Cover,Min. Cash Actual,Actual,952447.7505,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/24,M3-FY25,Minimum Cash Cover,Min. Cash Headroom,Headroom,73.75184099,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/24,M3-FY25,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/24,M3-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/24,M3-FY25,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.315783734,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/24,M3-FY25,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,45.17567774,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/24,M3-FY25,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/04/24,M3-FY25,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/24,M4-FY25,DSCR,DSCR Actual,Actual,2.323487883,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/24,M4-FY25,DSCR,DSCR Headroom,Headroom,-7.596859784,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/24,M4-FY25,DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/24,M4-FY25,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/24,M4-FY25,Gross Leverage Ratio,Gross Leverage Actual,Actual,1.543572104,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/24,M4-FY25,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,57.1229971,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/24,M4-FY25,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/24,M4-FY25,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/24,M4-FY25,Minimum Cash Cover,Min. Cash Actual,Actual,1134647.997,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/24,M4-FY25,Minimum Cash Cover,Min. Cash Headroom,Headroom,77.96673501,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/24,M4-FY25,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/24,M4-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/24,M4-FY25,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.280907136,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/24,M4-FY25,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,46.62886933,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/24,M4-FY25,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/05/24,M4-FY25,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/24,M5-FY25,DSCR,DSCR Actual,Actual,2.404703466,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/24,M5-FY25,DSCR,DSCR Headroom,Headroom,-3.962922454,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/24,M5-FY25,DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/24,M5-FY25,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/24,M5-FY25,Gross Leverage Ratio,Gross Leverage Actual,Actual,1.505502682,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/24,M5-FY25,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,58.18048105,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/24,M5-FY25,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/24,M5-FY25,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/24,M5-FY25,Minimum Cash Cover,Min. Cash Actual,Actual,1319965.656,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/24,M5-FY25,Minimum Cash Cover,Min. Cash Headroom,Headroom,81.06011328,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/24,M5-FY25,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/24,M5-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/24,M5-FY25,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.247193561,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/24,M5-FY25,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,48.03360165,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/24,M5-FY25,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/06/24,M5-FY25,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/24,M6-FY25,DSCR,DSCR Actual,Actual,2.485895375,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/24,M6-FY25,DSCR,DSCR Headroom,Headroom,-0.567386103,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/24,M6-FY25,DSCR,DSCR Status,Status,-1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/24,M6-FY25,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/24,M6-FY25,Gross Leverage Ratio,Gross Leverage Actual,Actual,1.297295063,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/24,M6-FY25,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,63.96402602,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/24,M6-FY25,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/24,M6-FY25,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/24,M6-FY25,Minimum Cash Cover,Min. Cash Actual,Actual,1052525.727,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/24,M6-FY25,Minimum Cash Cover,Min. Cash Headroom,Headroom,76.24761148,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/24,M6-FY25,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/24,M6-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/24,M6-FY25,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.214585616,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/24,M6-FY25,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,49.39226601,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/24,M6-FY25,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/07/24,M6-FY25,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/24,M7-FY25,DSCR,DSCR Actual,Actual,2.56706361,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/24,M7-FY25,DSCR,DSCR Headroom,Headroom,2.61246388,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/24,M7-FY25,DSCR,DSCR Status,Status,0,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/24,M7-FY25,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/24,M7-FY25,Gross Leverage Ratio,Gross Leverage Actual,Actual,1.264412256,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/24,M7-FY25,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,64.87743735,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/24,M7-FY25,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/24,M7-FY25,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/24,M7-FY25,Minimum Cash Cover,Min. Cash Actual,Actual,1244078.21,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/24,M7-FY25,Minimum Cash Cover,Min. Cash Headroom,Headroom,79.90480036,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/24,M7-FY25,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/24,M7-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/24,M7-FY25,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.183029625,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/24,M7-FY25,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,50.70709898,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/24,M7-FY25,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/08/24,M7-FY25,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/24,M8-FY25,DSCR,DSCR Actual,Actual,2.64820817,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/24,M8-FY25,DSCR,DSCR Headroom,Headroom,5.596545299,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/24,M8-FY25,DSCR,DSCR Status,Status,0,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/24,M8-FY25,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/24,M8-FY25,Gross Leverage Ratio,Gross Leverage Actual,Actual,1.232573406,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/24,M8-FY25,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,65.76184985,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/24,M8-FY25,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/24,M8-FY25,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/24,M8-FY25,Minimum Cash Cover,Min. Cash Actual,Actual,1438748.105,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/24,M8-FY25,Minimum Cash Cover,Min. Cash Headroom,Headroom,82.6237825,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/24,M8-FY25,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/24,M8-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/24,M8-FY25,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.15247533,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/24,M8-FY25,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,51.9801946,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/24,M8-FY25,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/09/24,M8-FY25,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/24,M9-FY25,DSCR,DSCR Actual,Actual,2.729329056,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/24,M9-FY25,DSCR,DSCR Headroom,Headroom,8.402396748,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/24,M9-FY25,DSCR,DSCR Status,Status,0,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/24,M9-FY25,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/24,M9-FY25,Gross Leverage Ratio,Gross Leverage Actual,Actual,1.201729419,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/24,M9-FY25,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,66.61862724,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/24,M9-FY25,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/24,M9-FY25,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/24,M9-FY25,Minimum Cash Cover,Min. Cash Actual,Actual,1085749.244,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/24,M9-FY25,Minimum Cash Cover,Min. Cash Headroom,Headroom,76.9744256,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/24,M9-FY25,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/24,M9-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/24,M9-FY25,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.122875624,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/24,M9-FY25,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,53.21351567,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/24,M9-FY25,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/10/24,M9-FY25,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/24,M10-FY25,DSCR,DSCR Actual,Actual,2.810426268,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/24,M10-FY25,DSCR,DSCR Headroom,Headroom,11.04552257,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/24,M10-FY25,DSCR,DSCR Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/24,M10-FY25,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/24,M10-FY25,Gross Leverage Ratio,Gross Leverage Actual,Actual,1.171834234,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/24,M10-FY25,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,67.44904906,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/24,M10-FY25,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/24,M10-FY25,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/24,M10-FY25,Minimum Cash Cover,Min. Cash Actual,Actual,1286653.963,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/24,M10-FY25,Minimum Cash Cover,Min. Cash Headroom,Headroom,80.56975635,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/24,M10-FY25,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/24,M10-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/24,M10-FY25,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.094186309,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/24,M10-FY25,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,54.40890378,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/24,M10-FY25,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/11/24,M10-FY25,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/24,M11-FY25,DSCR,DSCR Actual,Actual,3.270287684,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/24,M11-FY25,DSCR,DSCR Headroom,Headroom,23.55412607,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/24,M11-FY25,DSCR,DSCR Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/24,M11-FY25,DSCR,DSCR Threshold,Threshold,2.5,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/24,M11-FY25,Gross Leverage Ratio,Gross Leverage Actual,Actual,1.066365874,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/24,M11-FY25,Gross Leverage Ratio,Gross Leverage Headroom,Headroom,70.37872573,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/24,M11-FY25,Gross Leverage Ratio,Gross Leverage Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/24,M11-FY25,Gross Leverage Ratio,Gross Leverage Threshold,Threshold,3.6,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/24,M11-FY25,Minimum Cash Cover,Min. Cash Actual,Actual,1270676.094,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/24,M11-FY25,Minimum Cash Cover,Min. Cash Headroom,Headroom,80.32543453,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/24,M11-FY25,Minimum Cash Cover,Min. Cash Status,Status,1,
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/24,M11-FY25,Minimum Cash Cover,Min. Cash Threshold,Threshold,250000,CURRENCY
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/24,M11-FY25,Senior Leverage Ratio,Senior Leverage Actual,Actual,1.066365874,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/24,M11-FY25,Senior Leverage Ratio,Senior Leverage Headroom,Headroom,55.56808859,PERCENTAGE
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/24,M11-FY25,Senior Leverage Ratio,Senior Leverage Status,Status,1,NUMERIC
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,01/12/24,M11-FY25,Senior Leverage Ratio,Senior Leverage Threshold,Threshold,2.4,NUMERIC
