@@ -25,3 +25,5 @@ The project utilizes the following sample input files:
 Python is used for data cleansing and transformation tasks, which involve applying operations such as data pivoting. These processes are implemented in the `Data Cleansing.ipynb` file. The cleaned files are then stored in the Transformed folder and utilized in Tableau for generating insightful analytics.
 
 Please note that this is a brief overview of the project. Further details regarding specific analytics and functionalities can be explored within the dashboard itself.
+
+### View the dashboard [here](https://public.tableau.com/views/LoanPortfolioManagement/LoanPortfolioOverview?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link_)
