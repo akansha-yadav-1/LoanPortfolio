@@ -1,0 +1,145 @@
+borrower_id,borrower_name,borrower_sector_code,borrower_sector_description,period,period_title,covenant_type,Actual,Headroom,Status,Threshold,fy_month,fy_year
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-01-01,M9-FY23(A),DSCR,-11.88285413,-125.2464599,-1.0,3.0,9,23
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-01-01,M9-FY23(A),Gross Leverage Ratio,0.691833887,-38.36677749,-1.0,0.5,9,23
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-01-01,M9-FY23(A),ICR,28.27115826,46.94239315,1.0,15.0,9,23
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-01-01,M9-FY23(A),Minimum Cash Cover,1925522.07,48.06603281,1.0,1000000.0,9,23
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-01-01,M9-FY24,DSCR,64.09048531,91.73044177,1.0,5.3,9,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-01-01,M9-FY24,Gross Leverage Ratio,0.194486791,,,,9,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-01-01,M9-FY24,ICR,52.38816907,97.13675811,1.0,1.5,9,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-01-01,M9-FY24,Minimum Cash Cover,4882330.278,79.51797721,1.0,1000000.0,9,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-02-01,(B)M10-FY23,Minimum Cash Cover,,,,1000000.0,10,23
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-02-01,M10-FY24,Minimum Cash Cover,,,,1000000.0,10,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-03-01,M11-FY23,Minimum Cash Cover,,,,1000000.0,11,23
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-03-01,M11-FY24,Minimum Cash Cover,,,,1000000.0,11,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-04-01,M12-FY23,DSCR,-1.927925094,-364.5330991,-1.0,5.1,12,23
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-04-01,M12-FY23,Gross Leverage Ratio,0.359007346,,,,12,23
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-04-01,M12-FY23,ICR,32.64093827,95.40454387,1.0,1.5,12,23
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-04-01,M12-FY23,Minimum Cash Cover,3289944.587,69.60435128,1.0,1000000.0,12,23
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-04-01,M12-FY24,DSCR,52.89820422,91.87117963,1.0,4.3,12,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-04-01,M12-FY24,Gross Leverage Ratio,0.191556552,,,,12,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-04-01,M12-FY24,ICR,52.22877661,97.12802004,1.0,1.5,12,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-04-01,M12-FY24,Minimum Cash Cover,4975735.072,79.90246696,1.0,1000000.0,12,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-05-01,M1-FY24,Minimum Cash Cover,,,,1000000.0,1,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-05-01,M1-FY25,Minimum Cash Cover,,,,1000000.0,1,25
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-06-01,M2-FY24,Minimum Cash Cover,,,,1000000.0,2,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-06-01,M2-FY25,Minimum Cash Cover,,,,1000000.0,2,25
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-07-01,M3-FY24,DSCR,1.612931929,-364.9917251,-1.0,7.5,3,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-07-01,M3-FY24,Gross Leverage Ratio,0.233502401,,,,3,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-07-01,M3-FY24,ICR,37.61119687,96.01182593,1.0,1.5,3,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-07-01,M3-FY24,Minimum Cash Cover,3556563.102,71.88296759,1.0,1000000.0,3,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-07-01,M3-FY25,DSCR,40.44184587,90.60379189,1.0,3.8,3,25
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-07-01,M3-FY25,Gross Leverage Ratio,0.189031556,,,,3,25
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-07-01,M3-FY25,ICR,51.74784182,97.10132839,1.0,1.5,3,25
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-07-01,M3-FY25,Minimum Cash Cover,4312472.712,76.81144747,1.0,1000000.0,3,25
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-08-01,M4-FY24,Minimum Cash Cover,,,,1000000.0,4,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-08-01,M4-FY25,Minimum Cash Cover,,,,1000000.0,4,25
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-09-01,M5-FY24,Minimum Cash Cover,,,,1000000.0,5,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-09-01,M5-FY25,Minimum Cash Cover,,,,1000000.0,5,25
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-10-01,M6-FY24,DSCR,9.197813354,30.4182445,1.0,6.4,6,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-10-01,M6-FY24,Gross Leverage Ratio,0.159843934,,,,6,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-10-01,M6-FY24,ICR,42.90586001,96.50397405,1.0,1.5,6,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-10-01,M6-FY24,Minimum Cash Cover,4662713.896,78.55326271,1.0,1000000.0,6,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-10-01,M6-FY25,DSCR,43.62070158,94.26877627,1.0,2.5,6,25
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-10-01,M6-FY25,Gross Leverage Ratio,0.172611068,,,,6,25
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-10-01,M6-FY25,ICR,55.07620972,97.27650104,1.0,1.5,6,25
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-10-01,M6-FY25,Minimum Cash Cover,5371451.788,81.38305919,1.0,1000000.0,6,25
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-11-01,M7-FY24,Minimum Cash Cover,,,,1000000.0,7,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-11-01,M7-FY25,Minimum Cash Cover,,,,1000000.0,7,25
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2023-12-01,M8-FY24,Minimum Cash Cover,,,,1000000.0,8,24
+B1,Knapp Brown and Keller,43220,"Plumbing, heat and air-conditioning installation",2024-12-01,M8-FY25,Minimum Cash Cover,,,,1000000.0,8,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-01-01,M12-FY23(A),DSCR,2.386135735,-4.771910658,-1.0,2.5,12,23
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-01-01,M12-FY23(A),Gross Leverage Ratio,3.492575903,2.984002692,0.0,3.6,12,23
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-01-01,M12-FY23(A),Minimum Cash Cover,577321.0,56.69653451,1.0,250000.0,12,23
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-01-01,M12-FY23(A),Senior Leverage Ratio,2.044655888,14.80600466,1.0,2.4,12,23
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-01-01,M12-FY24,DSCR,-0.164096939,-1623.489722,-1.0,2.5,12,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-01-01,M12-FY24,Gross Leverage Ratio,1.737381611,51.7393997,1.0,3.6,12,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-01-01,M12-FY24,Minimum Cash Cover,487551.92,48.7234098,1.0,250000.0,12,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-01-01,M12-FY24,Senior Leverage Ratio,1.429195495,40.45018772,1.0,2.4,12,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-02-01,(B)M1-FY24,DSCR,2.556917325,2.226013521,0.0,2.5,1,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-02-01,(B)M1-FY24,Gross Leverage Ratio,3.573947642,0.723676604,0.0,3.6,1,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-02-01,(B)M1-FY24,Minimum Cash Cover,1185213.758,78.90675852,1.0,250000.0,1,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-02-01,(B)M1-FY24,Senior Leverage Ratio,2.081358476,13.27673017,1.0,2.4,1,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-02-01,M1-FY25,DSCR,-0.079075722,-3261.526636,-1.0,2.5,1,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-02-01,M1-FY25,Gross Leverage Ratio,1.691734759,53.00736781,1.0,3.6,1,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-02-01,M1-FY25,Minimum Cash Cover,660399.9306,62.14415108,1.0,250000.0,1,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-02-01,M1-FY25,Senior Leverage Ratio,1.389276138,42.11349424,1.0,2.4,1,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-03-01,M2-FY24,DSCR,2.709846334,7.743846268,0.0,2.5,2,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-03-01,M2-FY24,Gross Leverage Ratio,3.397971754,5.611895716,0.0,3.6,2,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-03-01,M2-FY24,Minimum Cash Cover,1315254.498,80.9922718,1.0,250000.0,2,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-03-01,M2-FY24,Senior Leverage Ratio,1.971715049,17.84520629,1.0,2.4,2,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-03-01,M2-FY25,DSCR,0.002210884,-112976.9344,-1.0,2.5,2,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-03-01,M2-FY25,Gross Leverage Ratio,1.649060415,54.19276624,1.0,3.6,2,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-03-01,M2-FY25,Minimum Cash Cover,836365.3533,70.10875701,1.0,250000.0,2,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-03-01,M2-FY25,Senior Leverage Ratio,1.351884789,43.67146713,1.0,2.4,2,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-04-01,M3-FY24,DSCR,0.903997407,-176.5494657,-1.0,2.5,3,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-04-01,M3-FY24,Gross Leverage Ratio,2.806803328,22.0332409,1.0,3.6,3,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-04-01,M3-FY24,Minimum Cash Cover,530549.8872,52.87907772,1.0,250000.0,3,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-04-01,M3-FY24,Senior Leverage Ratio,1.892683225,21.13819896,1.0,2.4,3,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-04-01,M3-FY25,DSCR,2.242248626,-11.49521827,-1.0,2.5,3,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-04-01,M3-FY25,Gross Leverage Ratio,1.582955293,56.02901963,1.0,3.6,3,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-04-01,M3-FY25,Minimum Cash Cover,952447.7505,73.75184099,1.0,250000.0,3,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-04-01,M3-FY25,Senior Leverage Ratio,1.315783734,45.17567774,1.0,2.4,3,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-05-01,M4-FY24,DSCR,0.82727169,-202.1981811,-1.0,2.5,4,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-05-01,M4-FY24,Gross Leverage Ratio,2.721710682,24.3969255,1.0,3.6,4,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-05-01,M4-FY24,Minimum Cash Cover,666850.4512,62.51033503,1.0,250000.0,4,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-05-01,M4-FY24,Senior Leverage Ratio,1.830029191,23.7487837,1.0,2.4,4,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-05-01,M4-FY25,DSCR,2.323487883,-7.596859784,-1.0,2.5,4,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-05-01,M4-FY25,Gross Leverage Ratio,1.543572104,57.1229971,1.0,3.6,4,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-05-01,M4-FY25,Minimum Cash Cover,1134647.997,77.96673501,1.0,250000.0,4,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-05-01,M4-FY25,Senior Leverage Ratio,1.280907136,46.62886933,1.0,2.4,4,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-06-01,M5-FY24,DSCR,0.922659492,-170.955864,-1.0,2.5,5,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-06-01,M5-FY24,Gross Leverage Ratio,2.650945823,26.36261603,1.0,3.6,5,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-06-01,M5-FY24,Minimum Cash Cover,806280.9273,68.99343746,1.0,250000.0,5,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-06-01,M5-FY24,Senior Leverage Ratio,1.777249435,25.94794021,1.0,2.4,5,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-06-01,M5-FY25,DSCR,2.404703466,-3.962922454,-1.0,2.5,5,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-06-01,M5-FY25,Gross Leverage Ratio,1.505502682,58.18048105,1.0,3.6,5,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-06-01,M5-FY25,Minimum Cash Cover,1319965.656,81.06011328,1.0,250000.0,5,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-06-01,M5-FY25,Senior Leverage Ratio,1.247193561,48.03360165,1.0,2.4,5,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-07-01,M6-FY24,DSCR,0.037653534,-6539.482983,-1.0,2.5,6,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-07-01,M6-FY24,Gross Leverage Ratio,2.371703608,34.11934422,1.0,3.6,6,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-07-01,M6-FY24,Minimum Cash Cover,492966.3155,49.28659583,1.0,250000.0,6,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-07-01,M6-FY24,Senior Leverage Ratio,1.730947491,27.87718788,1.0,2.4,6,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-07-01,M6-FY25,DSCR,2.485895375,-0.567386103,-1.0,2.5,6,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-07-01,M6-FY25,Gross Leverage Ratio,1.297295063,63.96402602,1.0,3.6,6,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-07-01,M6-FY25,Minimum Cash Cover,1052525.727,76.24761148,1.0,250000.0,6,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-07-01,M6-FY25,Senior Leverage Ratio,1.214585616,49.39226601,1.0,2.4,6,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-08-01,M7-FY24,DSCR,0.321814576,-676.8448627,-1.0,2.5,7,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-08-01,M7-FY24,Gross Leverage Ratio,2.320151492,35.55134745,1.0,3.6,7,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-08-01,M7-FY24,Minimum Cash Cover,638656.6157,60.85533386,1.0,250000.0,7,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-08-01,M7-FY24,Senior Leverage Ratio,1.689174337,29.61773597,1.0,2.4,7,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-08-01,M7-FY25,DSCR,2.56706361,2.61246388,0.0,2.5,7,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-08-01,M7-FY25,Gross Leverage Ratio,1.264412256,64.87743735,1.0,3.6,7,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-08-01,M7-FY25,Minimum Cash Cover,1244078.21,79.90480036,1.0,250000.0,7,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-08-01,M7-FY25,Senior Leverage Ratio,1.183029625,50.70709898,1.0,2.4,7,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-09-01,M8-FY24,DSCR,0.441208754,-466.6252038,-1.0,2.5,8,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-09-01,M8-FY24,Gross Leverage Ratio,2.273003558,36.86101229,1.0,3.6,8,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-09-01,M8-FY24,Minimum Cash Cover,787476.828,68.25303411,1.0,250000.0,8,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-09-01,M8-FY24,Senior Leverage Ratio,1.650729953,31.21958531,1.0,2.4,8,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-09-01,M8-FY25,DSCR,2.64820817,5.596545299,0.0,2.5,8,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-09-01,M8-FY25,Gross Leverage Ratio,1.232573406,65.76184985,1.0,3.6,8,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-09-01,M8-FY25,Minimum Cash Cover,1438748.105,82.6237825,1.0,250000.0,8,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-09-01,M8-FY25,Senior Leverage Ratio,1.15247533,51.9801946,1.0,2.4,8,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-10-01,M9-FY24,DSCR,0.565309495,-342.2356285,-1.0,2.5,9,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-10-01,M9-FY24,Gross Leverage Ratio,2.229212142,38.07744051,1.0,3.6,9,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-10-01,M9-FY24,Minimum Cash Cover,614934.148,59.34524033,1.0,250000.0,9,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-10-01,M9-FY24,Senior Leverage Ratio,1.614833775,32.71525937,1.0,2.4,9,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-10-01,M9-FY25,DSCR,2.729329056,8.402396748,0.0,2.5,9,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-10-01,M9-FY25,Gross Leverage Ratio,1.201729419,66.61862724,1.0,3.6,9,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-10-01,M9-FY25,Minimum Cash Cover,1085749.244,76.9744256,1.0,250000.0,9,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-10-01,M9-FY25,Senior Leverage Ratio,1.122875624,53.21351567,1.0,2.4,9,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-11-01,M10-FY24,DSCR,1.084201579,-130.5844271,-1.0,2.5,10,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-11-01,M10-FY24,Gross Leverage Ratio,2.146649175,40.37085626,1.0,3.6,10,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-11-01,M10-FY24,Minimum Cash Cover,770014.1843,67.53306561,1.0,250000.0,10,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-11-01,M10-FY24,Senior Leverage Ratio,1.5510304,35.37373333,1.0,2.4,10,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-11-01,M10-FY25,DSCR,2.810426268,11.04552257,1.0,2.5,10,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-11-01,M10-FY25,Gross Leverage Ratio,1.171834234,67.44904906,1.0,3.6,10,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-11-01,M10-FY25,Minimum Cash Cover,1286653.963,80.56975635,1.0,250000.0,10,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-11-01,M10-FY25,Senior Leverage Ratio,1.094186309,54.40890378,1.0,2.4,10,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-12-01,M11-FY24,DSCR,0.326565194,-665.5439236,-1.0,2.5,11,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-12-01,M11-FY24,Gross Leverage Ratio,1.907093618,47.02517729,1.0,3.6,11,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-12-01,M11-FY24,Minimum Cash Cover,558224.1328,55.21512143,1.0,250000.0,11,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2023-12-01,M11-FY24,Senior Leverage Ratio,1.489132492,37.95281282,1.0,2.4,11,24
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-12-01,M11-FY25,DSCR,3.270287684,23.55412607,1.0,2.5,11,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-12-01,M11-FY25,Gross Leverage Ratio,1.066365874,70.37872573,1.0,3.6,11,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-12-01,M11-FY25,Minimum Cash Cover,1270676.094,80.32543453,1.0,250000.0,11,25
+B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,2024-12-01,M11-FY25,Senior Leverage Ratio,1.066365874,55.56808859,1.0,2.4,11,25

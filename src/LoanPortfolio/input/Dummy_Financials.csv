@@ -4069,3 +4069,565 @@ B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,O
 B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,INTEREST_SHAREHOLDER_DEBT,Interest on Shareholder Debt,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,242,Income Statement,01/12/2024,-15325.86087,M11-FY25
 B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,NET_INCOME_INCL_EXTRA_ITEMS,Net Income/(Loss) to Common Incl Unusual Items,,,259,Income Statement,01/12/2024,82198.53996,M11-FY25
 B3,Smith Ltd,66290,Other activities auxiliary to insurance and pension funding,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,,,252,Income Statement,01/12/2024,-35089.3807,M11-FY25
+B4,Porter-Beasley,85590,Other education n.e.c.,STOCKS,Stocks,TOTAL_CURRENT_ASSETS,Total Current Assets,292,Balance Sheet,01/01/2023,2404964.436,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,PAYE_NI,PAYE and NI,TOTAL_CURRENT_LIAB,Total Current Liabilities,304,Balance Sheet,01/01/2023,27891.39277,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,ACCR_EXP,Accruals,TOTAL_CURRENT_LIAB,Total Current Liabilities,302,Balance Sheet,01/01/2023,54220.87657,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,LT_INVEST,Long-term Investments,,,277,Balance Sheet,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,HP_LT_DEBT,Hire Purchase,TOTAL_LT_LIAB,Total Long-Term Liabilities,318,Balance Sheet,01/01/2023,29454.0871,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,OTHER_RECV,Other Debtors,TOTAL_CURRENT_ASSETS,Total Current Assets,291,Balance Sheet,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,SR_LT_DEBT,Other Senior Debt,TOTAL_LT_LIAB,Total Long-Term Liabilities,319,Balance Sheet,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,TOTAL_LIAB,Total Liabilities,,,338,Balance Sheet,01/01/2023,8073314.326,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,PREPAID_EXP,Prepaid Expenses,TOTAL_CURRENT_ASSETS,Total Current Assets,295,Balance Sheet,01/01/2023,60782.92896,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,ACCT_PAYABLE,Trade Creditors,TOTAL_CURRENT_LIAB,Total Current Liabilities,300,Balance Sheet,01/01/2023,4415919.388,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,COMMON_STOCK,Common Equity,TOTAL_EQUITY,Total Equity,339,Balance Sheet,01/01/2023,2348.891953,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,INTANG_OTHER,Other Intangible Assets,GROSS_INTANG_ASSETS,Intangible Assets,273,Balance Sheet,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,NET_PP_AND_E,Net Property Plant & Equipment,,,271,Balance Sheet,01/01/2023,150660.8537,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,TOTAL_ASSETS,Total Assets,,,299,Balance Sheet,01/01/2023,4732997.122,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,TOTAL_EQUITY,Total Equity,,,347,Balance Sheet,01/01/2023,3576190.324,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,ON_DEBT_TOTAL,Total ON Debt,,,317,Balance Sheet,01/01/2023,465495.9746,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,PP_AND_E_LAND,Land,NET_PP_AND_E,Net Property Plant & Equipment,262,Balance Sheet,01/01/2023,105443.3099,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,RETAINED_EARN,Retained Earnings,TOTAL_EQUITY,Total Equity,346,Balance Sheet,01/01/2023,2828422.832,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,TOTAL_LT_LIAB,Total Long-Term Liabilities,,,337,Balance Sheet,01/01/2023,955622.4613,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,CASH_AND_EQUIV,Cash & Cash Equivalents,TOTAL_CURRENT_ASSETS,Total Current Assets,285,Balance Sheet,01/01/2023,187134.2691,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,ON_LT_DEBT_RCF,ON - RCF,ON_DEBT_TOTAL,Total ON Debt,316,Balance Sheet,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,ON_LT_DEBT_TLA,ON - Term Loan,ON_DEBT_TOTAL,Total ON Debt,315,Balance Sheet,01/01/2023,330814.4324,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,OTHER_PP_AND_E,Other Property Plant & Equipment,NET_PP_AND_E,Net Property Plant & Equipment,270,Balance Sheet,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,CORPORATION_TAX,Corporation Tax,TOTAL_CURRENT_LIAB,Total Current Liabilities,307,Balance Sheet,01/01/2023,146861.2205,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,TOTAL_LT_ASSETS,Total Long-Term Assets,,,284,Balance Sheet,01/01/2023,105900.2864,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,TRADE_ACCT_RECV,Trade Debtors,TOTAL_CURRENT_ASSETS,Total Current Assets,289,Balance Sheet,01/01/2023,71914.4076,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,OTHER_CURRENT_LIAB,Other Current Liabilities,TOTAL_CURRENT_LIAB,Total Current Liabilities,313,Balance Sheet,01/01/2023,3300.590174,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,PP_AND_E_FURNITURE,Furniture & Equipment,NET_PP_AND_E,Net Property Plant & Equipment,265,Balance Sheet,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,TOTAL_CURRENT_LIAB,Total Current Liabilities,,,314,Balance Sheet,01/01/2023,5762086.832,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,DIRECTORS_LOAN_LIAB,Directors Loan - Liabilities,TOTAL_LT_LIAB,Total Long-Term Liabilities,324,Balance Sheet,01/01/2023,-3122.132844,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,GROSS_INTANG_ASSETS,Intangible Assets,,,274,Balance Sheet,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,DEF_TAX_LIAB_CURRENT,Deferred Tax Liability,TOTAL_LT_LIAB,Total Long-Term Liabilities,334,Balance Sheet,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,OTHER_CURRENT_ASSETS,Other Current Assets,TOTAL_CURRENT_ASSETS,Total Current Assets,297,Balance Sheet,01/01/2023,-32089.62432,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,TOTAL_CURRENT_ASSETS,Total Current Assets,,,298,Balance Sheet,01/01/2023,326633.5036,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,PP_AND_E_IT_EQUIPMENT,Computer & Other IT Equipment,NET_PP_AND_E,Net Property Plant & Equipment,266,Balance Sheet,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,DEFERRED_CONSIDERATION,Deferred Consideration / Earn Out,TOTAL_LT_LIAB,Total Long-Term Liabilities,329,Balance Sheet,01/01/2023,407265.6419,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,LEASEHOLD_IMPROVEMENTS,Leasehold Improvements,NET_PP_AND_E,Net Property Plant & Equipment,267,Balance Sheet,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,OTHER_NON_CURRENT_LIAB,Other Non-Current Liabilities,TOTAL_LT_LIAB,Total Long-Term Liabilities,336,Balance Sheet,01/01/2023,7460.126093,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,TOTAL_OTHER_NON_CURRENT_ASSETS,Total Other Long-Term Assets,,,283,Balance Sheet,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,CFF,Cash from Financing,,,415,Cash Flows,01/01/2023,-309624.5431,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,CFI,Cash from Investing,,,383,Cash Flows,01/01/2023,-4928.348961,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,CFO,Cash from Operations,,,377,Cash Flows,01/01/2023,-538733.387,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,NET_INC_CF,Net Income/(Loss) - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,348,Cash Flows,01/01/2023,346599.7273,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,VAT_CHANGE,Change in VAT,WC_CHANGE_CFO,Changes in Working Capital Items,366,Cash Flows,01/01/2023,44756.4436,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,OTHER_CAPEX,Other Capex,NET_SALE_PP_AND_E_INTANG,Net Sale (Purchase) of PP&E and Intangible Assets,380,Cash Flows,01/01/2023,410.277673,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,CAPEX_GROWTH,Growth Capex,NET_SALE_PP_AND_E_INTANG,Net Sale (Purchase) of PP&E and Intangible Assets,379,Cash Flows,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,HP_LT_DEBT_CF,Hire Purchase Repaid,CFF,Cash from Financing,396,Cash Flows,01/01/2023,-5312.523275,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,WC_CHANGE_CFO,Changes in Working Capital Items,,,372,Cash Flows,01/01/2023,-379724.7452,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,ARRANGE_FEE_CF,Arrangement/ Exit Fee,CFF,Cash from Financing,384,Cash Flows,01/01/2023,139.2532998,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,INC_TAX_EXP_CF,Income Tax Expense - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,349,Cash Flows,01/01/2023,34390.84834,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,PAYE_NI_CHANGE,Change in PAYE and NI,WC_CHANGE_CFO,Changes in Working Capital Items,365,Cash Flows,01/01/2023,-54267.42384,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,ACCR_EXP_CHANGE,Change in Accruals,WC_CHANGE_CFO,Changes in Working Capital Items,364,Cash Flows,01/01/2023,-222884.1958,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,COMMON_DIV_PAID,Common Dividends Paid,CFF,Cash from Financing,410,Cash Flows,01/01/2023,-34824.70861,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,ACCT_RECV_CHANGE,Change in Trade Debtors,WC_CHANGE_CFO,Changes in Working Capital Items,354,Cash Flows,01/01/2023,-1019.757764,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,INVENTORY_CHANGE,Change in Stocks,WC_CHANGE_CFO,Changes in Working Capital Items,357,Cash Flows,01/01/2023,-147385.1782,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,ON_LT_DEBT_DRAWN,ON Loan Drawn,CFF,Cash from Financing,393,Cash Flows,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,CAPEX_MAINTENANCE,Maintenance Capex,NET_SALE_PP_AND_E_INTANG,Net Sale (Purchase) of PP&E and Intangible Assets,378,Cash Flows,01/01/2023,-31632.0092,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,DIRECTORS_LOAN_CF,Change in Directors Loan,CFF,Cash from Financing,405,Cash Flows,01/01/2023,-29494.0399,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/01/2023,-30606.53301,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,OTHER_RECV_CHANGE,Change in Other Debtors,WC_CHANGE_CFO,Changes in Working Capital Items,355,Cash Flows,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,CASH_AND_EQUIV_END,Closing Cash balance,,,419,Cash Flows,01/01/2023,728965.3059,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,PREPAID_EXP_CHANGE,Change in Prepaid Expenses,WC_CHANGE_CFO,Changes in Working Capital Items,358,Cash Flows,01/01/2023,4119.167818,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,ACCT_PAYABLE_CHANGE,Change in Trade Creditors,WC_CHANGE_CFO,Changes in Working Capital Items,362,Cash Flows,01/01/2023,-206008.6702,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,INTEREST_HP_DEBT_CF,Interest on Hire Purchase - CF,CFF,Cash from Financing,387,Cash Flows,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,INTEREST_ON_DEBT_CF,Interest on ON Debt Facility - CF,CFF,Cash from Financing,386,Cash Flows,01/01/2023,-10465.33202,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,OTHER_LOAN_DRAWN_CF,Other Loan Drawn,CFF,Cash from Financing,402,Cash Flows,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,TOTAL_DEPR_AMORT_CF,Depreciation & Amortization - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,352,Cash Flows,01/01/2023,12513.38984,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,CASH_AND_EQUIV_BEGIN,Opening Cash balance,CASH_AND_EQUIV_END,Closing Cash balance,418,Cash Flows,01/01/2023,406779.7026,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,CORPORATION_TAX_PAID,Taxes Paid,CFO,Cash from Operations,373,Cash Flows,01/01/2023,-72297.5076,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,,,353,Cash Flows,01/01/2023,162937.4462,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,INTEREST_EXST_DEBT_CF,Interest on Existing Debt - CF,CFF,Cash from Financing,385,Cash Flows,01/01/2023,-2630.312314,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,ISSUANCE_COMMON_STOCK,Equity Shares Issued/Cash Out,CFF,Cash from Financing,413,Cash Flows,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,NET_SALE_PP_AND_E_INTANG,Net Sale (Purchase) of PP&E and Intangible Assets,,,381,Cash Flows,01/01/2023,-10643.8456,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,TOTAL_OTHER_FINANC_ACTIV,Other Financing Activities,CFF,Cash from Financing,414,Cash Flows,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,DEFERRED_CONSIDERATION_CF,Deferred Consideration / Earn Out Paid,CFF,Cash from Financing,409,Cash Flows,01/01/2023,-15054.91606,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,NET_CHANGE_CASH_AND_EQUIV,Net Change in Cash,,,416,Cash Flows,01/01/2023,-422123.0987,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,OTHER_CURRENT_LIAB_CHANGE,Change in other Current Liabilities,WC_CHANGE_CFO,Changes in Working Capital Items,371,Cash Flows,01/01/2023,15302.02623,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,INTEREST_EXP_AND_INCOME_TOTAL_CF,Interest Expense and Income - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,350,Cash Flows,01/01/2023,18025.06133,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,TOTAL_OTHER_NON_CURRENT_ASSETS_CHANGE,Change in Other non-current Assets,CFO,Cash from Operations,375,Cash Flows,01/01/2023,20962.62982,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,NET_INC,Net Income/(Loss),,,255,Income Statement,01/01/2023,14689.86526,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,OPER_INC,Operating Income (EBIT),,,235,Income Statement,01/01/2023,374544.9492,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,EBT_INCL_XO,Profit Before Tax (PBT),,,253,Income Statement,01/01/2023,330466.8942,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,INC_TAX_EXP,Income Tax Expense,NET_INC,Net Income/(Loss),254,Income Statement,01/01/2023,-84830.40637,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,DEPRECIATION,Depreciation,TOTAL_DEPR_AMORT,Total Depreciation & Amortization,231,Income Statement,01/01/2023,-10090.8861,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,GROSS_PROFIT,Gross Profit,,,161,Income Statement,01/01/2023,1092298.299,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,COST_OF_SALES,Cost of Sales,,,160,Income Statement,01/01/2023,-4391392.119,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,OFFICERS_COMP,Salary,TOTAL_OPER_EXP,Total Operating Expenses,163,Income Statement,01/01/2023,-550443.3218,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,TOTAL_REVENUE,Total Revenue,,,79,Income Statement,01/01/2023,2463881.113,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,INVESTMENT_INC,Investment Income,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,251,Income Statement,01/01/2023,2.353248564,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,OTHER_OPER_EXP,Other Operating Expenses,TOTAL_OPER_EXP,Total Operating Expenses,208,Income Statement,01/01/2023,-197859.336,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,PREF_DIV_OTHER,Preferred Dividend & Other Adjustments,NET_INCOME_INCL_EXTRA_ITEMS,Net Income/(Loss) to Common Incl Unusual Items,258,Income Statement,01/01/2023,-69691.72787,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,TOTAL_OPER_EXP,Total Operating Expenses,,,222,Income Statement,01/01/2023,-68415.39516,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,COGS_OTHER_COGS,Other CoGS,COST_OF_SALES,Cost of Sales,159,Income Statement,01/01/2023,-6936518.551,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,EXCEPTIONAL_EXP,Exceptional Items,,,229,Income Statement,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,INTEREST_HP_DEBT,Interest on Hire Purchase,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,238,Income Statement,01/01/2023,-3053.096377,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,INTEREST_ON_DEBT,Interest on ON Debt Facility,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,237,Income Statement,01/01/2023,-4098.139121,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,TOTAL_DEPR_AMORT,Total Depreciation & Amortization,,,234,Income Statement,01/01/2023,-11931.61888,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,NET_INC_AFTER_DIV,Retained Profit,,,261,Income Statement,01/01/2023,37265.55013,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,EBITDA_AFTER_EXCEP,EBITDA after Exceptional,,,230,Income Statement,01/01/2023,509990.0719,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,INTEREST_EXST_DEBT,Interest on Existing Debt,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,236,Income Statement,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,OTHER_NON_OPER_INC,Other Non-Operating Income,TOTAL_OPER_EXP,Total Operating Expenses,220,Income Statement,01/01/2023,0,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,EBITDA_BEFORE_EXCEP,EBITDA before Exceptional,,,223,Income Statement,01/01/2023,2549.647492,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,TOTAL_OTHER_REVENUE,Other Revenue,TOTAL_REVENUE,Total Revenue,78,Income Statement,01/01/2023,7969568.085,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,INTEREST_LOAN_NOTE_1,Arrangement Fee,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,239,Income Statement,01/01/2023,17.62008241,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,NET_INCOME_EXCL_MIN_INT,Net Income/(Loss) Excluding Minority Interest,,,257,Income Statement,01/01/2023,92477.58287,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,NET_INCOME_INCL_EXTRA_ITEMS,Net Income/(Loss) to Common Incl Unusual Items,,,259,Income Statement,01/01/2023,129975.8927,M9-FY23(A)
+B4,Porter-Beasley,85590,Other education n.e.c.,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,,,252,Income Statement,01/01/2023,-16163.23827,M9-FY23(A)
+B9,Lee-Gibson,66290,Construction of railways and underground railways,LT_INVEST,Long-term Investments,,,277,Balance Sheet,01/12/2024,293.3597267,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,TOTAL_LIAB,Total Liabilities,,,338,Balance Sheet,01/12/2024,3067895.189,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,NET_PP_AND_E,Net Property Plant & Equipment,,,271,Balance Sheet,01/12/2024,438.3522963,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,TOTAL_ASSETS,Total Assets,,,299,Balance Sheet,01/12/2024,1271093.371,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,TOTAL_EQUITY,Total Equity,,,347,Balance Sheet,01/12/2024,491.8210006,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ON_DEBT_TOTAL,Total ON Debt,,,317,Balance Sheet,01/12/2024,3067780.073,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,TOTAL_LT_LIAB,Total Long-Term Liabilities,,,337,Balance Sheet,01/12/2024,3067657.222,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,CASH_AND_EQUIV,Cash & Cash Equivalents,TOTAL_CURRENT_ASSETS,Total Current Assets,285,Balance Sheet,01/12/2024,1270748.686,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ON_LT_DEBT_TLA,ON - Term Loan,ON_DEBT_TOTAL,Total ON Debt,315,Balance Sheet,01/12/2024,3067622.886,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,TOTAL_LT_ASSETS,Total Long-Term Assets,,,284,Balance Sheet,01/12/2024,225.338156,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,TOTAL_CURRENT_LIAB,Total Current Liabilities,,,314,Balance Sheet,01/12/2024,142.022656,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,GROSS_INTANG_ASSETS,Intangible Assets,,,274,Balance Sheet,01/12/2024,262.9758049,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,TOTAL_CURRENT_ASSETS,Total Current Assets,,,298,Balance Sheet,01/12/2024,1271012.239,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,DEFERRED_CONSIDERATION_ST,Deferred Consideration Short Term,TOTAL_CURRENT_LIAB,Total Current Liabilities,308,Balance Sheet,01/12/2024,283.8541111,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,TOTAL_OTHER_NON_CURRENT_ASSETS,Total Other Long-Term Assets,,,283,Balance Sheet,01/12/2024,119.8598705,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,CFF,Cash from Financing,,,415,Cash Flows,01/12/2024,30175.04407,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,CFI,Cash from Investing,,,383,Cash Flows,01/12/2024,183.2662983,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,CFO,Cash from Operations,,,377,Cash Flows,01/12/2024,-53822.70641,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,NET_INC_CF,Net Income/(Loss) - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,348,Cash Flows,01/12/2024,82620.78964,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,VAT_CHANGE,Change in VAT,WC_CHANGE_CFO,Changes in Working Capital Items,366,Cash Flows,01/12/2024,68.94749075,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,SR_LT_DEBT_CF,Senior Debt Repaid,CFF,Cash from Financing,397,Cash Flows,01/12/2024,218.7978477,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,WC_CHANGE_CFO,Changes in Working Capital Items,,,372,Cash Flows,01/12/2024,-219699.4917,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,INC_TAX_EXP_CF,Income Tax Expense - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,349,Cash Flows,01/12/2024,55597.73412,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ACCR_EXP_CHANGE,Change in Accruals,WC_CHANGE_CFO,Changes in Working Capital Items,364,Cash Flows,01/12/2024,461.7403487,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ACCT_RECV_CHANGE,Change in Trade Debtors,WC_CHANGE_CFO,Changes in Working Capital Items,354,Cash Flows,01/12/2024,186.7855129,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ON_LT_DEBT_DRAWN,ON Loan Drawn,CFF,Cash from Financing,393,Cash Flows,01/12/2024,275.9529495,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,CAPEX_MAINTENANCE,Maintenance Capex,NET_SALE_PP_AND_E_INTANG,Net Sale (Purchase) of PP&E and Intangible Assets,378,Cash Flows,01/12/2024,496.4706467,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/12/2024,-32152.27816,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,CASH_AND_EQUIV_END,Closing Cash balance,,,419,Cash Flows,01/12/2024,1088849.943,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,TOTAL_INVEST_ACTIV,Other Investing Activities,,,382,Cash Flows,01/12/2024,367.2614123,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ACCT_PAYABLE_CHANGE,Change in Trade Creditors,WC_CHANGE_CFO,Changes in Working Capital Items,362,Cash Flows,01/12/2024,34.92572209,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,INTEREST_ON_DEBT_CF,Interest on ON Debt Facility - CF,CFF,Cash from Financing,386,Cash Flows,01/12/2024,-19433.77828,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,TOTAL_DEPR_AMORT_CF,Depreciation & Amortization - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,352,Cash Flows,01/12/2024,84020.52639,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,CASH_AND_EQUIV_BEGIN,Opening Cash balance,CASH_AND_EQUIV_END,Closing Cash balance,418,Cash Flows,01/12/2024,1112651.001,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,CORPORATION_TAX_PAID,Taxes Paid,CFO,Cash from Operations,373,Cash Flows,01/12/2024,-54987.17764,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,SHAREHOLDER_LOANS_CF,Change in Shareholder Loans,CFF,Cash from Financing,406,Cash Flows,01/12/2024,422.1497336,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,,,353,Cash Flows,01/12/2024,221533.7313,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,INTEREST_EXST_DEBT_CF,Interest on Existing Debt - CF,CFF,Cash from Financing,385,Cash Flows,01/12/2024,209.8546872,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,TOTAL_OTHER_LIAB_CHANGE,Change in Other non-current Liabilities,CFO,Cash from Operations,376,Cash Flows,01/12/2024,103.9308295,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,NET_SALE_PP_AND_E_INTANG,Net Sale (Purchase) of PP&E and Intangible Assets,,,381,Cash Flows,01/12/2024,338.5786719,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,TOTAL_OTHER_FINANC_ACTIV,Other Financing Activities,CFF,Cash from Financing,414,Cash Flows,01/12/2024,82283.84576,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,DEFERRED_CONSIDERATION_CF,Deferred Consideration / Earn Out Paid,CFF,Cash from Financing,409,Cash Flows,01/12/2024,262.9804159,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,NET_CHANGE_CASH_AND_EQUIV,Net Change in Cash,,,416,Cash Flows,01/12/2024,-24014.4718,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,OTHER_CURRENT_LIAB_CHANGE,Change in other Current Liabilities,WC_CHANGE_CFO,Changes in Working Capital Items,371,Cash Flows,01/12/2024,277.4222174,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,INTEREST_EXP_AND_INCOME_TOTAL_CF,Interest Expense and Income - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,350,Cash Flows,01/12/2024,347.2924521,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,TOTAL_UNEARNED_REV_CURRENT_CHANGE,Change in Deferred Revenue,WC_CHANGE_CFO,Changes in Working Capital Items,369,Cash Flows,01/12/2024,-219862.1556,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,NET_INC,Net Income/(Loss),,,255,Income Statement,01/12/2024,82637.51299,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,OPER_INC,Operating Income (EBIT),,,235,Income Statement,01/12/2024,172804.7412,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,EBT_INCL_XO,Profit Before Tax (PBT),,,253,Income Statement,01/12/2024,137808.7927,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,INC_TAX_EXP,Income Tax Expense,NET_INC,Net Income/(Loss),254,Income Statement,01/12/2024,-55177.493,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,DEPRECIATION,Depreciation,TOTAL_DEPR_AMORT,Total Depreciation & Amortization,231,Income Statement,01/12/2024,-83346.94294,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,GROSS_PROFIT,Gross Profit,,,161,Income Statement,01/12/2024,483530.1571,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,COST_OF_SALES,Cost of Sales,,,160,Income Statement,01/12/2024,-87881.59441,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,TOTAL_REVENUE,Total Revenue,,,79,Income Statement,01/12/2024,571943.4405,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,INTEREST_OTHER,Other Interest Expense,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,243,Income Statement,01/12/2024,53.29207232,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ONEOFF_REVENUE,One-Off fee,TOTAL_REVENUE,Total Revenue,53,Income Statement,01/12/2024,103077.0018,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,PREF_DIV_OTHER,Preferred Dividend & Other Adjustments,NET_INCOME_INCL_EXTRA_ITEMS,Net Income/(Loss) to Common Incl Unusual Items,258,Income Statement,01/12/2024,297.3454856,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,TOTAL_OPER_EXP,Total Operating Expenses,,,222,Income Statement,01/12/2024,-226926.0296,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,EXCEPTIONAL_EXP,Exceptional Items,,,229,Income Statement,01/12/2024,465.0275395,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,NET_INCOME_MINR,Minority Interest - IS,NET_INCOME_EXCL_MIN_INT,Net Income/(Loss) Excluding Minority Interest,256,Income Statement,01/12/2024,436.1823307,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,REC_INC_REVENUE,Recurring Income,TOTAL_REVENUE,Total Revenue,52,Income Statement,01/12/2024,468979.1645,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,COMMISSIONS_COGS,Commissions paid,COST_OF_SALES,Cost of Sales,149,Income Statement,01/12/2024,-87758.85599,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,INTEREST_ON_DEBT,Interest on ON Debt Facility,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,237,Income Statement,01/12/2024,-19311.29531,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,LEASE_RENTAL_EXP,Property Rent,TOTAL_OPER_EXP,Total Operating Expenses,195,Income Statement,01/12/2024,-5726.083311,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,TOTAL_DEPR_AMORT,Total Depreciation & Amortization,,,234,Income Statement,01/12/2024,-83757.43281,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,NET_INC_AFTER_DIV,Retained Profit,,,261,Income Statement,01/12/2024,82301.77354,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,EBITDA_AFTER_EXCEP,EBITDA after Exceptional,,,230,Income Statement,01/12/2024,256735.2981,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,OTHER_NON_OPER_EXP,Other Non-Operating Expenses,TOTAL_OPER_EXP,Total Operating Expenses,221,Income Statement,01/12/2024,-47604.9687,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,EBITDA_BEFORE_EXCEP,EBITDA before Exceptional,,,223,Income Statement,01/12/2024,256582.4612,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,NET_INCOME_EXCL_MIN_INT,Net Income/(Loss) Excluding Minority Interest,,,257,Income Statement,01/12/2024,82543.36876,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,OTHER_GENERAL_ADMIN_EXP,Other G&A Expense,TOTAL_OPER_EXP,Total Operating Expenses,193,Income Statement,01/12/2024,-173372.1225,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,INTEREST_SHAREHOLDER_DEBT,Interest on Shareholder Debt,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,242,Income Statement,01/12/2024,-15019.45547,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,NET_INCOME_INCL_EXTRA_ITEMS,Net Income/(Loss) to Common Incl Unusual Items,,,259,Income Statement,01/12/2024,82227.38568,M11-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,,,252,Income Statement,01/12/2024,-34864.83713,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,LT_INVEST,Long-term Investments,,,277,Balance Sheet,01/12/2024,274.2674148,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_LIAB,Total Liabilities,,,338,Balance Sheet,01/12/2024,2271052.387,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_PP_AND_E,Net Property Plant & Equipment,,,271,Balance Sheet,01/12/2024,377.7221575,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_ASSETS,Total Assets,,,299,Balance Sheet,01/12/2024,836067.1086,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_EQUITY,Total Equity,,,347,Balance Sheet,01/12/2024,158.9491484,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,ON_DEBT_TOTAL,Total ON Debt,,,317,Balance Sheet,01/12/2024,1732852.881,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_LT_LIAB,Total Long-Term Liabilities,,,337,Balance Sheet,01/12/2024,2894758.38,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,CASH_AND_EQUIV,Cash & Cash Equivalents,TOTAL_CURRENT_ASSETS,Total Current Assets,285,Balance Sheet,01/12/2024,588652.1948,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,ON_LT_DEBT_TLA,ON - Term Loan,ON_DEBT_TOTAL,Total ON Debt,315,Balance Sheet,01/12/2024,2434443.79,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_LT_ASSETS,Total Long-Term Assets,,,284,Balance Sheet,01/12/2024,49.67501928,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_CURRENT_LIAB,Total Current Liabilities,,,314,Balance Sheet,01/12/2024,85.28981105,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,GROSS_INTANG_ASSETS,Intangible Assets,,,274,Balance Sheet,01/12/2024,147.8873171,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_CURRENT_ASSETS,Total Current Assets,,,298,Balance Sheet,01/12/2024,474771.1083,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,DEFERRED_CONSIDERATION_ST,Deferred Consideration Short Term,TOTAL_CURRENT_LIAB,Total Current Liabilities,308,Balance Sheet,01/12/2024,120.1294636,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_OTHER_NON_CURRENT_ASSETS,Total Other Long-Term Assets,,,283,Balance Sheet,01/12/2024,112.0228847,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,CFF,Cash from Financing,,,415,Cash Flows,01/12/2024,17949.73612,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,CFI,Cash from Investing,,,383,Cash Flows,01/12/2024,123.7266023,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,CFO,Cash from Operations,,,377,Cash Flows,01/12/2024,-17118.18989,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_INC_CF,Net Income/(Loss) - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,348,Cash Flows,01/12/2024,30055.52483,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,VAT_CHANGE,Change in VAT,WC_CHANGE_CFO,Changes in Working Capital Items,366,Cash Flows,01/12/2024,13.24894927,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,SR_LT_DEBT_CF,Senior Debt Repaid,CFF,Cash from Financing,397,Cash Flows,01/12/2024,195.8756999,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,WC_CHANGE_CFO,Changes in Working Capital Items,,,372,Cash Flows,01/12/2024,-208113.4654,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INC_TAX_EXP_CF,Income Tax Expense - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,349,Cash Flows,01/12/2024,23539.36987,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,ACCR_EXP_CHANGE,Change in Accruals,WC_CHANGE_CFO,Changes in Working Capital Items,364,Cash Flows,01/12/2024,161.9830887,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,ACCT_RECV_CHANGE,Change in Trade Debtors,WC_CHANGE_CFO,Changes in Working Capital Items,354,Cash Flows,01/12/2024,183.7451377,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,ON_LT_DEBT_DRAWN,ON Loan Drawn,CFF,Cash from Financing,393,Cash Flows,01/12/2024,213.9541981,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,CAPEX_MAINTENANCE,Maintenance Capex,NET_SALE_PP_AND_E_INTANG,Net Sale (Purchase) of PP&E and Intangible Assets,378,Cash Flows,01/12/2024,322.7099252,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/12/2024,-10976.92988,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,CASH_AND_EQUIV_END,Closing Cash balance,,,419,Cash Flows,01/12/2024,738435.796,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_INVEST_ACTIV,Other Investing Activities,,,382,Cash Flows,01/12/2024,288.5011338,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,ACCT_PAYABLE_CHANGE,Change in Trade Creditors,WC_CHANGE_CFO,Changes in Working Capital Items,362,Cash Flows,01/12/2024,4.389502142,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INTEREST_ON_DEBT_CF,Interest on ON Debt Facility - CF,CFF,Cash from Financing,386,Cash Flows,01/12/2024,-12717.97621,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_DEPR_AMORT_CF,Depreciation & Amortization - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,352,Cash Flows,01/12/2024,6475.280399,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,CASH_AND_EQUIV_BEGIN,Opening Cash balance,CASH_AND_EQUIV_END,Closing Cash balance,418,Cash Flows,01/12/2024,999815.0132,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,CORPORATION_TAX_PAID,Taxes Paid,CFO,Cash from Operations,373,Cash Flows,01/12/2024,-7058.533864,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,SHAREHOLDER_LOANS_CF,Change in Shareholder Loans,CFF,Cash from Financing,406,Cash Flows,01/12/2024,60.56343575,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,,,353,Cash Flows,01/12/2024,120200.2681,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INTEREST_EXST_DEBT_CF,Interest on Existing Debt - CF,CFF,Cash from Financing,385,Cash Flows,01/12/2024,26.04793937,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_OTHER_LIAB_CHANGE,Change in Other non-current Liabilities,CFO,Cash from Operations,376,Cash Flows,01/12/2024,93.09729163,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_SALE_PP_AND_E_INTANG,Net Sale (Purchase) of PP&E and Intangible Assets,,,381,Cash Flows,01/12/2024,258.8613811,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_OTHER_FINANC_ACTIV,Other Financing Activities,CFF,Cash from Financing,414,Cash Flows,01/12/2024,41553.09809,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,DEFERRED_CONSIDERATION_CF,Deferred Consideration / Earn Out Paid,CFF,Cash from Financing,409,Cash Flows,01/12/2024,243.3778418,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_CHANGE_CASH_AND_EQUIV,Net Change in Cash,,,416,Cash Flows,01/12/2024,-12282.57179,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,OTHER_CURRENT_LIAB_CHANGE,Change in other Current Liabilities,WC_CHANGE_CFO,Changes in Working Capital Items,371,Cash Flows,01/12/2024,145.4304686,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INTEREST_EXP_AND_INCOME_TOTAL_CF,Interest Expense and Income - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,350,Cash Flows,01/12/2024,144.1593948,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_UNEARNED_REV_CURRENT_CHANGE,Change in Deferred Revenue,WC_CHANGE_CFO,Changes in Working Capital Items,369,Cash Flows,01/12/2024,-63588.551,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_INC,Net Income/(Loss),,,255,Income Statement,01/12/2024,50040.44182,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,OPER_INC,Operating Income (EBIT),,,235,Income Statement,01/12/2024,783.9562465,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,EBT_INCL_XO,Profit Before Tax (PBT),,,253,Income Statement,01/12/2024,98103.36343,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INC_TAX_EXP,Income Tax Expense,NET_INC,Net Income/(Loss),254,Income Statement,01/12/2024,-47470.52536,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,DEPRECIATION,Depreciation,TOTAL_DEPR_AMORT,Total Depreciation & Amortization,231,Income Statement,01/12/2024,-17980.31723,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,GROSS_PROFIT,Gross Profit,,,161,Income Statement,01/12/2024,68947.49444,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,COST_OF_SALES,Cost of Sales,,,160,Income Statement,01/12/2024,-32923.05249,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_REVENUE,Total Revenue,,,79,Income Statement,01/12/2024,17294.57887,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INTEREST_OTHER,Other Interest Expense,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,243,Income Statement,01/12/2024,38.47342991,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,ONEOFF_REVENUE,One-Off fee,TOTAL_REVENUE,Total Revenue,53,Income Statement,01/12/2024,73720.68546,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,PREF_DIV_OTHER,Preferred Dividend & Other Adjustments,NET_INCOME_INCL_EXTRA_ITEMS,Net Income/(Loss) to Common Incl Unusual Items,258,Income Statement,01/12/2024,52.95846806,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_OPER_EXP,Total Operating Expenses,,,222,Income Statement,01/12/2024,-128435.0352,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,EXCEPTIONAL_EXP,Exceptional Items,,,229,Income Statement,01/12/2024,445.3672466,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_INCOME_MINR,Minority Interest - IS,NET_INCOME_EXCL_MIN_INT,Net Income/(Loss) Excluding Minority Interest,256,Income Statement,01/12/2024,298.2491524,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,REC_INC_REVENUE,Recurring Income,TOTAL_REVENUE,Total Revenue,52,Income Statement,01/12/2024,289984.9722,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,COMMISSIONS_COGS,Commissions paid,COST_OF_SALES,Cost of Sales,149,Income Statement,01/12/2024,-54173.22032,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INTEREST_ON_DEBT,Interest on ON Debt Facility,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,237,Income Statement,01/12/2024,-9268.353219,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,LEASE_RENTAL_EXP,Property Rent,TOTAL_OPER_EXP,Total Operating Expenses,195,Income Statement,01/12/2024,-3558.949583,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_DEPR_AMORT,Total Depreciation & Amortization,,,234,Income Statement,01/12/2024,-75975.29155,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_INC_AFTER_DIV,Retained Profit,,,261,Income Statement,01/12/2024,8108.377084,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,EBITDA_AFTER_EXCEP,EBITDA after Exceptional,,,230,Income Statement,01/12/2024,212793.5321,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,OTHER_NON_OPER_EXP,Other Non-Operating Expenses,TOTAL_OPER_EXP,Total Operating Expenses,221,Income Statement,01/12/2024,-4032.335051,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,EBITDA_BEFORE_EXCEP,EBITDA before Exceptional,,,223,Income Statement,01/12/2024,67275.1918,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_INCOME_EXCL_MIN_INT,Net Income/(Loss) Excluding Minority Interest,,,257,Income Statement,01/12/2024,34116.01951,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,OTHER_GENERAL_ADMIN_EXP,Other G&A Expense,TOTAL_OPER_EXP,Total Operating Expenses,193,Income Statement,01/12/2024,-28315.70978,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INTEREST_SHAREHOLDER_DEBT,Interest on Shareholder Debt,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,242,Income Statement,01/12/2024,-14816.67357,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_INCOME_INCL_EXTRA_ITEMS,Net Income/(Loss) to Common Incl Unusual Items,,,259,Income Statement,01/12/2024,74032.21024,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,,,252,Income Statement,01/12/2024,-26637.8882,M11-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,LT_INVEST,Long-term Investments,,,277,Balance Sheet,01/12/2024,252.9531028,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_LIAB,Total Liabilities,,,338,Balance Sheet,01/12/2024,1474197.675,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_PP_AND_E,Net Property Plant & Equipment,,,271,Balance Sheet,01/12/2024,265.4182015,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_ASSETS,Total Assets,,,299,Balance Sheet,01/12/2024,816949.3331,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_EQUITY,Total Equity,,,347,Balance Sheet,01/12/2024,15.21746386,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,ON_DEBT_TOTAL,Total ON Debt,,,317,Balance Sheet,01/12/2024,586410.1238,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_LT_LIAB,Total Long-Term Liabilities,,,337,Balance Sheet,01/12/2024,2553207.21,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,CASH_AND_EQUIV,Cash & Cash Equivalents,TOTAL_CURRENT_ASSETS,Total Current Assets,285,Balance Sheet,01/12/2024,358863.0552,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,ON_LT_DEBT_TLA,ON - Term Loan,ON_DEBT_TOTAL,Total ON Debt,315,Balance Sheet,01/12/2024,680714.5184,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_LT_ASSETS,Total Long-Term Assets,,,284,Balance Sheet,01/12/2024,45.03366373,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_CURRENT_LIAB,Total Current Liabilities,,,314,Balance Sheet,01/12/2024,83.94341925,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,GROSS_INTANG_ASSETS,Intangible Assets,,,274,Balance Sheet,01/12/2024,135.6579142,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_CURRENT_ASSETS,Total Current Assets,,,298,Balance Sheet,01/12/2024,405714.4991,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,DEFERRED_CONSIDERATION_ST,Deferred Consideration Short Term,TOTAL_CURRENT_LIAB,Total Current Liabilities,308,Balance Sheet,01/12/2024,88.25579552,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_OTHER_NON_CURRENT_ASSETS,Total Other Long-Term Assets,,,283,Balance Sheet,01/12/2024,87.49867475,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,CFF,Cash from Financing,,,415,Cash Flows,01/12/2024,13931.0822,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,CFI,Cash from Investing,,,383,Cash Flows,01/12/2024,30.87097415,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,CFO,Cash from Operations,,,377,Cash Flows,01/12/2024,-13960.0273,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_INC_CF,Net Income/(Loss) - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,348,Cash Flows,01/12/2024,26070.59613,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,VAT_CHANGE,Change in VAT,WC_CHANGE_CFO,Changes in Working Capital Items,366,Cash Flows,01/12/2024,12.38138376,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,SR_LT_DEBT_CF,Senior Debt Repaid,CFF,Cash from Financing,397,Cash Flows,01/12/2024,194.7431031,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,WC_CHANGE_CFO,Changes in Working Capital Items,,,372,Cash Flows,01/12/2024,-191739.2123,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INC_TAX_EXP_CF,Income Tax Expense - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,349,Cash Flows,01/12/2024,9043.964533,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,ACCR_EXP_CHANGE,Change in Accruals,WC_CHANGE_CFO,Changes in Working Capital Items,364,Cash Flows,01/12/2024,4.034170763,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,ACCT_RECV_CHANGE,Change in Trade Debtors,WC_CHANGE_CFO,Changes in Working Capital Items,354,Cash Flows,01/12/2024,45.54832828,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,ON_LT_DEBT_DRAWN,ON Loan Drawn,CFF,Cash from Financing,393,Cash Flows,01/12/2024,62.44262231,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,CAPEX_MAINTENANCE,Maintenance Capex,NET_SALE_PP_AND_E_INTANG,Net Sale (Purchase) of PP&E and Intangible Assets,378,Cash Flows,01/12/2024,194.5750216,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/12/2024,-10047.69878,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,CASH_AND_EQUIV_END,Closing Cash balance,,,419,Cash Flows,01/12/2024,143100.8116,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_INVEST_ACTIV,Other Investing Activities,,,382,Cash Flows,01/12/2024,192.0142059,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,ACCT_PAYABLE_CHANGE,Change in Trade Creditors,WC_CHANGE_CFO,Changes in Working Capital Items,362,Cash Flows,01/12/2024,2.331233989,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INTEREST_ON_DEBT_CF,Interest on ON Debt Facility - CF,CFF,Cash from Financing,386,Cash Flows,01/12/2024,-12199.35842,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_DEPR_AMORT_CF,Depreciation & Amortization - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,352,Cash Flows,01/12/2024,3217.908558,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,CASH_AND_EQUIV_BEGIN,Opening Cash balance,CASH_AND_EQUIV_END,Closing Cash balance,418,Cash Flows,01/12/2024,356838.3105,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,CORPORATION_TAX_PAID,Taxes Paid,CFO,Cash from Operations,373,Cash Flows,01/12/2024,-3671.076324,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,SHAREHOLDER_LOANS_CF,Change in Shareholder Loans,CFF,Cash from Financing,406,Cash Flows,01/12/2024,2.148552612,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,,,353,Cash Flows,01/12/2024,47967.66124,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INTEREST_EXST_DEBT_CF,Interest on Existing Debt - CF,CFF,Cash from Financing,385,Cash Flows,01/12/2024,20.0040681,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_OTHER_LIAB_CHANGE,Change in Other non-current Liabilities,CFO,Cash from Operations,376,Cash Flows,01/12/2024,27.74213334,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_SALE_PP_AND_E_INTANG,Net Sale (Purchase) of PP&E and Intangible Assets,,,381,Cash Flows,01/12/2024,24.68414115,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_OTHER_FINANC_ACTIV,Other Financing Activities,CFF,Cash from Financing,414,Cash Flows,01/12/2024,3140.086289,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,DEFERRED_CONSIDERATION_CF,Deferred Consideration / Earn Out Paid,CFF,Cash from Financing,409,Cash Flows,01/12/2024,226.1655452,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_CHANGE_CASH_AND_EQUIV,Net Change in Cash,,,416,Cash Flows,01/12/2024,-5565.914065,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,OTHER_CURRENT_LIAB_CHANGE,Change in other Current Liabilities,WC_CHANGE_CFO,Changes in Working Capital Items,371,Cash Flows,01/12/2024,1.583573223,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INTEREST_EXP_AND_INCOME_TOTAL_CF,Interest Expense and Income - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,350,Cash Flows,01/12/2024,108.0180898,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_UNEARNED_REV_CURRENT_CHANGE,Change in Deferred Revenue,WC_CHANGE_CFO,Changes in Working Capital Items,369,Cash Flows,01/12/2024,-62475.25942,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_INC,Net Income/(Loss),,,255,Income Statement,01/12/2024,40985.25937,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,OPER_INC,Operating Income (EBIT),,,235,Income Statement,01/12/2024,494.3582735,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,EBT_INCL_XO,Profit Before Tax (PBT),,,253,Income Statement,01/12/2024,51336.55648,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INC_TAX_EXP,Income Tax Expense,NET_INC,Net Income/(Loss),254,Income Statement,01/12/2024,-8842.489219,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,DEPRECIATION,Depreciation,TOTAL_DEPR_AMORT,Total Depreciation & Amortization,231,Income Statement,01/12/2024,-11016.66178,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,GROSS_PROFIT,Gross Profit,,,161,Income Statement,01/12/2024,53999.76618,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,COST_OF_SALES,Cost of Sales,,,160,Income Statement,01/12/2024,-22236.38008,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_REVENUE,Total Revenue,,,79,Income Statement,01/12/2024,16650.15828,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INTEREST_OTHER,Other Interest Expense,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,243,Income Statement,01/12/2024,32.979612,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,ONEOFF_REVENUE,One-Off fee,TOTAL_REVENUE,Total Revenue,53,Income Statement,01/12/2024,69247.04904,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,PREF_DIV_OTHER,Preferred Dividend & Other Adjustments,NET_INCOME_INCL_EXTRA_ITEMS,Net Income/(Loss) to Common Incl Unusual Items,258,Income Statement,01/12/2024,10.34804948,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_OPER_EXP,Total Operating Expenses,,,222,Income Statement,01/12/2024,-18162.1195,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,EXCEPTIONAL_EXP,Exceptional Items,,,229,Income Statement,01/12/2024,250.7740259,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_INCOME_MINR,Minority Interest - IS,NET_INCOME_EXCL_MIN_INT,Net Income/(Loss) Excluding Minority Interest,256,Income Statement,01/12/2024,127.9651918,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,REC_INC_REVENUE,Recurring Income,TOTAL_REVENUE,Total Revenue,52,Income Statement,01/12/2024,105061.2065,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,COMMISSIONS_COGS,Commissions paid,COST_OF_SALES,Cost of Sales,149,Income Statement,01/12/2024,-23509.75874,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INTEREST_ON_DEBT,Interest on ON Debt Facility,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,237,Income Statement,01/12/2024,-8658.393455,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,LEASE_RENTAL_EXP,Property Rent,TOTAL_OPER_EXP,Total Operating Expenses,195,Income Statement,01/12/2024,-944.6718943,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,TOTAL_DEPR_AMORT,Total Depreciation & Amortization,,,234,Income Statement,01/12/2024,-68801.42077,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_INC_AFTER_DIV,Retained Profit,,,261,Income Statement,01/12/2024,4796.308858,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,EBITDA_AFTER_EXCEP,EBITDA after Exceptional,,,230,Income Statement,01/12/2024,75771.3556,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,OTHER_NON_OPER_EXP,Other Non-Operating Expenses,TOTAL_OPER_EXP,Total Operating Expenses,221,Income Statement,01/12/2024,-1668.508782,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,EBITDA_BEFORE_EXCEP,EBITDA before Exceptional,,,223,Income Statement,01/12/2024,52482.99636,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_INCOME_EXCL_MIN_INT,Net Income/(Loss) Excluding Minority Interest,,,257,Income Statement,01/12/2024,29148.14182,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,OTHER_GENERAL_ADMIN_EXP,Other G&A Expense,TOTAL_OPER_EXP,Total Operating Expenses,193,Income Statement,01/12/2024,-24952.56856,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INTEREST_SHAREHOLDER_DEBT,Interest on Shareholder Debt,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,242,Income Statement,01/12/2024,-967.0818032,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,NET_INCOME_INCL_EXTRA_ITEMS,Net Income/(Loss) to Common Incl Unusual Items,,,259,Income Statement,01/12/2024,48489.64971,M10-FY25
+B10,Moore  Vasquez and Willis,32500,Construction of railways and underground railways,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,,,252,Income Statement,01/12/2024,-1123.943259,M10-FY25
+B5,Flores  Perez and Chen,73110,Advertising agencies,LT_INVEST,Long-term Investments,,,277,Balance Sheet,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_LIAB,Total Liabilities,,,338,Balance Sheet,01/11/2023,2708396.102,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_PP_AND_E,Net Property Plant & Equipment,,,271,Balance Sheet,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_ASSETS,Total Assets,,,299,Balance Sheet,01/11/2023,757849.097,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_EQUITY,Total Equity,,,347,Balance Sheet,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ON_DEBT_TOTAL,Total ON Debt,,,317,Balance Sheet,01/11/2023,2491037.656,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_LT_LIAB,Total Long-Term Liabilities,,,337,Balance Sheet,01/11/2023,2537681.924,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CASH_AND_EQUIV,Cash & Cash Equivalents,TOTAL_CURRENT_ASSETS,Total Current Assets,285,Balance Sheet,01/11/2023,23878.39349,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ON_LT_DEBT_TLA,ON - Term Loan,ON_DEBT_TOTAL,Total ON Debt,315,Balance Sheet,01/11/2023,51341.76034,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_LT_ASSETS,Total Long-Term Assets,,,284,Balance Sheet,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_CURRENT_LIAB,Total Current Liabilities,,,314,Balance Sheet,01/11/2023,973639.0687,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,GROSS_INTANG_ASSETS,Intangible Assets,,,274,Balance Sheet,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_CURRENT_ASSETS,Total Current Assets,,,298,Balance Sheet,01/11/2023,373656.7699,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,DEFERRED_CONSIDERATION_ST,Deferred Consideration Short Term,TOTAL_CURRENT_LIAB,Total Current Liabilities,308,Balance Sheet,01/11/2023,975241.804,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_OTHER_NON_CURRENT_ASSETS,Total Other Long-Term Assets,,,283,Balance Sheet,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CFF,Cash from Financing,,,415,Cash Flows,01/11/2023,-280.0979035,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CFI,Cash from Investing,,,383,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CFO,Cash from Operations,,,377,Cash Flows,01/11/2023,95863.29826,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INC_CF,Net Income/(Loss) - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,348,Cash Flows,01/11/2023,37072.31324,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,VAT_CHANGE,Change in VAT,WC_CHANGE_CFO,Changes in Working Capital Items,366,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,SR_LT_DEBT_CF,Senior Debt Repaid,CFF,Cash from Financing,397,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,WC_CHANGE_CFO,Changes in Working Capital Items,,,372,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INC_TAX_EXP_CF,Income Tax Expense - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,349,Cash Flows,01/11/2023,29826.15611,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ACCR_EXP_CHANGE,Change in Accruals,WC_CHANGE_CFO,Changes in Working Capital Items,364,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ACCT_RECV_CHANGE,Change in Trade Debtors,WC_CHANGE_CFO,Changes in Working Capital Items,354,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ON_LT_DEBT_DRAWN,ON Loan Drawn,CFF,Cash from Financing,393,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CAPEX_MAINTENANCE,Maintenance Capex,NET_SALE_PP_AND_E_INTANG,Net Sale (Purchase) of PP&E and Intangible Assets,378,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/11/2023,-28495.41821,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CASH_AND_EQUIV_END,Closing Cash balance,,,419,Cash Flows,01/11/2023,26985.75785,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_INVEST_ACTIV,Other Investing Activities,,,382,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ACCT_PAYABLE_CHANGE,Change in Trade Creditors,WC_CHANGE_CFO,Changes in Working Capital Items,362,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_ON_DEBT_CF,Interest on ON Debt Facility - CF,CFF,Cash from Financing,386,Cash Flows,01/11/2023,-19139.53132,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_DEPR_AMORT_CF,Depreciation & Amortization - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,352,Cash Flows,01/11/2023,66542.51758,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CASH_AND_EQUIV_BEGIN,Opening Cash balance,CASH_AND_EQUIV_END,Closing Cash balance,418,Cash Flows,01/11/2023,137665.6735,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CORPORATION_TAX_PAID,Taxes Paid,CFO,Cash from Operations,373,Cash Flows,01/11/2023,-4767.035487,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,SHAREHOLDER_LOANS_CF,Change in Shareholder Loans,CFF,Cash from Financing,406,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,,,353,Cash Flows,01/11/2023,76509.86113,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_EXST_DEBT_CF,Interest on Existing Debt - CF,CFF,Cash from Financing,385,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_OTHER_LIAB_CHANGE,Change in Other non-current Liabilities,CFO,Cash from Operations,376,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_SALE_PP_AND_E_INTANG,Net Sale (Purchase) of PP&E and Intangible Assets,,,381,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_OTHER_FINANC_ACTIV,Other Financing Activities,CFF,Cash from Financing,414,Cash Flows,01/11/2023,36304.6376,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,DEFERRED_CONSIDERATION_CF,Deferred Consideration / Earn Out Paid,CFF,Cash from Financing,409,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_CHANGE_CASH_AND_EQUIV,Net Change in Cash,,,416,Cash Flows,01/11/2023,25616.7127,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,OTHER_CURRENT_LIAB_CHANGE,Change in other Current Liabilities,WC_CHANGE_CFO,Changes in Working Capital Items,371,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_EXP_AND_INCOME_TOTAL_CF,Interest Expense and Income - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,350,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_UNEARNED_REV_CURRENT_CHANGE,Change in Deferred Revenue,WC_CHANGE_CFO,Changes in Working Capital Items,369,Cash Flows,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INC,Net Income/(Loss),,,255,Income Statement,01/11/2023,15913.62427,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,OPER_INC,Operating Income (EBIT),,,235,Income Statement,01/11/2023,26078.60504,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,EBT_INCL_XO,Profit Before Tax (PBT),,,253,Income Statement,01/11/2023,29547.07705,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INC_TAX_EXP,Income Tax Expense,NET_INC,Net Income/(Loss),254,Income Statement,01/11/2023,-33981.69494,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,DEPRECIATION,Depreciation,TOTAL_DEPR_AMORT,Total Depreciation & Amortization,231,Income Statement,01/11/2023,-10225.08082,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,GROSS_PROFIT,Gross Profit,,,161,Income Statement,01/11/2023,13015.24315,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,COST_OF_SALES,Cost of Sales,,,160,Income Statement,01/11/2023,-52690.04254,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_REVENUE,Total Revenue,,,79,Income Statement,01/11/2023,316469.809,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_OTHER,Other Interest Expense,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,243,Income Statement,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ONEOFF_REVENUE,One-Off fee,TOTAL_REVENUE,Total Revenue,53,Income Statement,01/11/2023,40362.66972,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,PREF_DIV_OTHER,Preferred Dividend & Other Adjustments,NET_INCOME_INCL_EXTRA_ITEMS,Net Income/(Loss) to Common Incl Unusual Items,258,Income Statement,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_OPER_EXP,Total Operating Expenses,,,222,Income Statement,01/11/2023,-28762.76518,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,EXCEPTIONAL_EXP,Exceptional Items,,,229,Income Statement,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INCOME_MINR,Minority Interest - IS,NET_INCOME_EXCL_MIN_INT,Net Income/(Loss) Excluding Minority Interest,256,Income Statement,01/11/2023,0,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,REC_INC_REVENUE,Recurring Income,TOTAL_REVENUE,Total Revenue,52,Income Statement,01/11/2023,378829.6776,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,COMMISSIONS_COGS,Commissions paid,COST_OF_SALES,Cost of Sales,149,Income Statement,01/11/2023,-20525.47282,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_ON_DEBT,Interest on ON Debt Facility,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,237,Income Statement,01/11/2023,-8550.818453,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,LEASE_RENTAL_EXP,Property Rent,TOTAL_OPER_EXP,Total Operating Expenses,195,Income Statement,01/11/2023,-2102.885965,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_DEPR_AMORT,Total Depreciation & Amortization,,,234,Income Statement,01/11/2023,-77608.3453,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INC_AFTER_DIV,Retained Profit,,,261,Income Statement,01/11/2023,40906.51034,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,EBITDA_AFTER_EXCEP,EBITDA after Exceptional,,,230,Income Statement,01/11/2023,68853.84904,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,OTHER_NON_OPER_EXP,Other Non-Operating Expenses,TOTAL_OPER_EXP,Total Operating Expenses,221,Income Statement,01/11/2023,-10899.76344,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,EBITDA_BEFORE_EXCEP,EBITDA before Exceptional,,,223,Income Statement,01/11/2023,61053.77258,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INCOME_EXCL_MIN_INT,Net Income/(Loss) Excluding Minority Interest,,,257,Income Statement,01/11/2023,12329.52398,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,OTHER_GENERAL_ADMIN_EXP,Other G&A Expense,TOTAL_OPER_EXP,Total Operating Expenses,193,Income Statement,01/11/2023,-71002.4662,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_SHAREHOLDER_DEBT,Interest on Shareholder Debt,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,242,Income Statement,01/11/2023,-5841.987414,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INCOME_INCL_EXTRA_ITEMS,Net Income/(Loss) to Common Incl Unusual Items,,,259,Income Statement,01/11/2023,19871.6958,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,,,252,Income Statement,01/11/2023,-35884.62655,M10-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,LT_INVEST,Long-term Investments,,,277,Balance Sheet,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_LIAB,Total Liabilities,,,338,Balance Sheet,01/12/2023,120319.15,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_PP_AND_E,Net Property Plant & Equipment,,,271,Balance Sheet,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_ASSETS,Total Assets,,,299,Balance Sheet,01/12/2023,554164.7117,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_EQUITY,Total Equity,,,347,Balance Sheet,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ON_DEBT_TOTAL,Total ON Debt,,,317,Balance Sheet,01/12/2023,721073.2157,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_LT_LIAB,Total Long-Term Liabilities,,,337,Balance Sheet,01/12/2023,3442753.589,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CASH_AND_EQUIV,Cash & Cash Equivalents,TOTAL_CURRENT_ASSETS,Total Current Assets,285,Balance Sheet,01/12/2023,184759.0478,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ON_LT_DEBT_TLA,ON - Term Loan,ON_DEBT_TOTAL,Total ON Debt,315,Balance Sheet,01/12/2023,3396091.587,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_LT_ASSETS,Total Long-Term Assets,,,284,Balance Sheet,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_CURRENT_LIAB,Total Current Liabilities,,,314,Balance Sheet,01/12/2023,216512.9589,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,GROSS_INTANG_ASSETS,Intangible Assets,,,274,Balance Sheet,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_CURRENT_ASSETS,Total Current Assets,,,298,Balance Sheet,01/12/2023,425862.8377,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,DEFERRED_CONSIDERATION_ST,Deferred Consideration Short Term,TOTAL_CURRENT_LIAB,Total Current Liabilities,308,Balance Sheet,01/12/2023,506942.1948,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_OTHER_NON_CURRENT_ASSETS,Total Other Long-Term Assets,,,283,Balance Sheet,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CFF,Cash from Financing,,,415,Cash Flows,01/12/2023,-3985.394209,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CFI,Cash from Investing,,,383,Cash Flows,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CFO,Cash from Operations,,,377,Cash Flows,01/12/2023,-79174.86175,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INC_CF,Net Income/(Loss) - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,348,Cash Flows,01/12/2023,1206.3156,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,VAT_CHANGE,Change in VAT,WC_CHANGE_CFO,Changes in Working Capital Items,366,Cash Flows,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,SR_LT_DEBT_CF,Senior Debt Repaid,CFF,Cash from Financing,397,Cash Flows,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,WC_CHANGE_CFO,Changes in Working Capital Items,,,372,Cash Flows,01/12/2023,-266305.4213,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INC_TAX_EXP_CF,Income Tax Expense - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,349,Cash Flows,01/12/2023,32686.90264,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ACCR_EXP_CHANGE,Change in Accruals,WC_CHANGE_CFO,Changes in Working Capital Items,364,Cash Flows,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ACCT_RECV_CHANGE,Change in Trade Debtors,WC_CHANGE_CFO,Changes in Working Capital Items,354,Cash Flows,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ON_LT_DEBT_DRAWN,ON Loan Drawn,CFF,Cash from Financing,393,Cash Flows,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CAPEX_MAINTENANCE,Maintenance Capex,NET_SALE_PP_AND_E_INTANG,Net Sale (Purchase) of PP&E and Intangible Assets,378,Cash Flows,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/12/2023,-24080.78672,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CASH_AND_EQUIV_END,Closing Cash balance,,,419,Cash Flows,01/12/2023,40701.52251,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_INVEST_ACTIV,Other Investing Activities,,,382,Cash Flows,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ACCT_PAYABLE_CHANGE,Change in Trade Creditors,WC_CHANGE_CFO,Changes in Working Capital Items,362,Cash Flows,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_ON_DEBT_CF,Interest on ON Debt Facility - CF,CFF,Cash from Financing,386,Cash Flows,01/12/2023,-1644.020059,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_DEPR_AMORT_CF,Depreciation & Amortization - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,352,Cash Flows,01/12/2023,14680.86659,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CASH_AND_EQUIV_BEGIN,Opening Cash balance,CASH_AND_EQUIV_END,Closing Cash balance,418,Cash Flows,01/12/2023,93270.44298,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CORPORATION_TAX_PAID,Taxes Paid,CFO,Cash from Operations,373,Cash Flows,01/12/2023,-37517.41597,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,SHAREHOLDER_LOANS_CF,Change in Shareholder Loans,CFF,Cash from Financing,406,Cash Flows,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,,,353,Cash Flows,01/12/2023,169545.0963,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_EXST_DEBT_CF,Interest on Existing Debt - CF,CFF,Cash from Financing,385,Cash Flows,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_OTHER_LIAB_CHANGE,Change in Other non-current Liabilities,CFO,Cash from Operations,376,Cash Flows,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_SALE_PP_AND_E_INTANG,Net Sale (Purchase) of PP&E and Intangible Assets,,,381,Cash Flows,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_OTHER_FINANC_ACTIV,Other Financing Activities,CFF,Cash from Financing,414,Cash Flows,01/12/2023,35785.08509,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,DEFERRED_CONSIDERATION_CF,Deferred Consideration / Earn Out Paid,CFF,Cash from Financing,409,Cash Flows,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_CHANGE_CASH_AND_EQUIV,Net Change in Cash,,,416,Cash Flows,01/12/2023,-63769.98606,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,OTHER_CURRENT_LIAB_CHANGE,Change in other Current Liabilities,WC_CHANGE_CFO,Changes in Working Capital Items,371,Cash Flows,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_EXP_AND_INCOME_TOTAL_CF,Interest Expense and Income - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,350,Cash Flows,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_UNEARNED_REV_CURRENT_CHANGE,Change in Deferred Revenue,WC_CHANGE_CFO,Changes in Working Capital Items,369,Cash Flows,01/12/2023,-178748.848,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INC,Net Income/(Loss),,,255,Income Statement,01/12/2023,33523.62834,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,OPER_INC,Operating Income (EBIT),,,235,Income Statement,01/12/2023,20093.72008,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,EBT_INCL_XO,Profit Before Tax (PBT),,,253,Income Statement,01/12/2023,71463.99342,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INC_TAX_EXP,Income Tax Expense,NET_INC,Net Income/(Loss),254,Income Statement,01/12/2023,-5875.281601,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,DEPRECIATION,Depreciation,TOTAL_DEPR_AMORT,Total Depreciation & Amortization,231,Income Statement,01/12/2023,-17001.0652,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,GROSS_PROFIT,Gross Profit,,,161,Income Statement,01/12/2023,277993.7831,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,COST_OF_SALES,Cost of Sales,,,160,Income Statement,01/12/2023,-10432.92951,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_REVENUE,Total Revenue,,,79,Income Statement,01/12/2023,501315.6554,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_OTHER,Other Interest Expense,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,243,Income Statement,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ONEOFF_REVENUE,One-Off fee,TOTAL_REVENUE,Total Revenue,53,Income Statement,01/12/2023,19464.61682,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,PREF_DIV_OTHER,Preferred Dividend & Other Adjustments,NET_INCOME_INCL_EXTRA_ITEMS,Net Income/(Loss) to Common Incl Unusual Items,258,Income Statement,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_OPER_EXP,Total Operating Expenses,,,222,Income Statement,01/12/2023,-211319.3684,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,EXCEPTIONAL_EXP,Exceptional Items,,,229,Income Statement,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INCOME_MINR,Minority Interest - IS,NET_INCOME_EXCL_MIN_INT,Net Income/(Loss) Excluding Minority Interest,256,Income Statement,01/12/2023,0,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,REC_INC_REVENUE,Recurring Income,TOTAL_REVENUE,Total Revenue,52,Income Statement,01/12/2023,120666.8151,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,COMMISSIONS_COGS,Commissions paid,COST_OF_SALES,Cost of Sales,149,Income Statement,01/12/2023,-41616.03589,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_ON_DEBT,Interest on ON Debt Facility,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,237,Income Statement,01/12/2023,-18415.28656,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,LEASE_RENTAL_EXP,Property Rent,TOTAL_OPER_EXP,Total Operating Expenses,195,Income Statement,01/12/2023,-2715.784303,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_DEPR_AMORT,Total Depreciation & Amortization,,,234,Income Statement,01/12/2023,-28244.34578,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INC_AFTER_DIV,Retained Profit,,,261,Income Statement,01/12/2023,21384.46463,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,EBITDA_AFTER_EXCEP,EBITDA after Exceptional,,,230,Income Statement,01/12/2023,154028.145,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,OTHER_NON_OPER_EXP,Other Non-Operating Expenses,TOTAL_OPER_EXP,Total Operating Expenses,221,Income Statement,01/12/2023,-9048.922973,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,EBITDA_BEFORE_EXCEP,EBITDA before Exceptional,,,223,Income Statement,01/12/2023,71899.38033,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INCOME_EXCL_MIN_INT,Net Income/(Loss) Excluding Minority Interest,,,257,Income Statement,01/12/2023,37400.43769,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,OTHER_GENERAL_ADMIN_EXP,Other G&A Expense,TOTAL_OPER_EXP,Total Operating Expenses,193,Income Statement,01/12/2023,-59477.99124,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_SHAREHOLDER_DEBT,Interest on Shareholder Debt,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,242,Income Statement,01/12/2023,-12854.20047,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INCOME_INCL_EXTRA_ITEMS,Net Income/(Loss) to Common Incl Unusual Items,,,259,Income Statement,01/12/2023,18794.8538,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,,,252,Income Statement,01/12/2023,-15664.1196,M11-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,LT_INVEST,Long-term Investments,,,277,Balance Sheet,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_LIAB,Total Liabilities,,,338,Balance Sheet,01/01/2024,2536177.487,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_PP_AND_E,Net Property Plant & Equipment,,,271,Balance Sheet,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_ASSETS,Total Assets,,,299,Balance Sheet,01/01/2024,442342.257,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_EQUITY,Total Equity,,,347,Balance Sheet,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ON_DEBT_TOTAL,Total ON Debt,,,317,Balance Sheet,01/01/2024,1205476.274,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_LT_LIAB,Total Long-Term Liabilities,,,337,Balance Sheet,01/01/2024,3079523.551,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CASH_AND_EQUIV,Cash & Cash Equivalents,TOTAL_CURRENT_ASSETS,Total Current Assets,285,Balance Sheet,01/01/2024,218976.1857,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ON_LT_DEBT_TLA,ON - Term Loan,ON_DEBT_TOTAL,Total ON Debt,315,Balance Sheet,01/01/2024,2180548.267,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_LT_ASSETS,Total Long-Term Assets,,,284,Balance Sheet,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_CURRENT_LIAB,Total Current Liabilities,,,314,Balance Sheet,01/01/2024,430766.5088,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,GROSS_INTANG_ASSETS,Intangible Assets,,,274,Balance Sheet,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_CURRENT_ASSETS,Total Current Assets,,,298,Balance Sheet,01/01/2024,310545.023,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,DEFERRED_CONSIDERATION_ST,Deferred Consideration Short Term,TOTAL_CURRENT_LIAB,Total Current Liabilities,308,Balance Sheet,01/01/2024,163595.329,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_OTHER_NON_CURRENT_ASSETS,Total Other Long-Term Assets,,,283,Balance Sheet,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CFF,Cash from Financing,,,415,Cash Flows,01/01/2024,-1694.616878,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CFI,Cash from Investing,,,383,Cash Flows,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CFO,Cash from Operations,,,377,Cash Flows,01/01/2024,-91383.08621,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INC_CF,Net Income/(Loss) - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,348,Cash Flows,01/01/2024,33858.24804,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,VAT_CHANGE,Change in VAT,WC_CHANGE_CFO,Changes in Working Capital Items,366,Cash Flows,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,SR_LT_DEBT_CF,Senior Debt Repaid,CFF,Cash from Financing,397,Cash Flows,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,WC_CHANGE_CFO,Changes in Working Capital Items,,,372,Cash Flows,01/01/2024,-214982.4453,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INC_TAX_EXP_CF,Income Tax Expense - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,349,Cash Flows,01/01/2024,20423.4106,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ACCR_EXP_CHANGE,Change in Accruals,WC_CHANGE_CFO,Changes in Working Capital Items,364,Cash Flows,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ACCT_RECV_CHANGE,Change in Trade Debtors,WC_CHANGE_CFO,Changes in Working Capital Items,354,Cash Flows,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ON_LT_DEBT_DRAWN,ON Loan Drawn,CFF,Cash from Financing,393,Cash Flows,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CAPEX_MAINTENANCE,Maintenance Capex,NET_SALE_PP_AND_E_INTANG,Net Sale (Purchase) of PP&E and Intangible Assets,378,Cash Flows,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/01/2024,-9304.870213,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CASH_AND_EQUIV_END,Closing Cash balance,,,419,Cash Flows,01/01/2024,-15194.00645,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_INVEST_ACTIV,Other Investing Activities,,,382,Cash Flows,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ACCT_PAYABLE_CHANGE,Change in Trade Creditors,WC_CHANGE_CFO,Changes in Working Capital Items,362,Cash Flows,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_ON_DEBT_CF,Interest on ON Debt Facility - CF,CFF,Cash from Financing,386,Cash Flows,01/01/2024,-20778.56345,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_DEPR_AMORT_CF,Depreciation & Amortization - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,352,Cash Flows,01/01/2024,54591.81894,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CASH_AND_EQUIV_BEGIN,Opening Cash balance,CASH_AND_EQUIV_END,Closing Cash balance,418,Cash Flows,01/01/2024,25779.18124,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,CORPORATION_TAX_PAID,Taxes Paid,CFO,Cash from Operations,373,Cash Flows,01/01/2024,-33081.43863,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,SHAREHOLDER_LOANS_CF,Change in Shareholder Loans,CFF,Cash from Financing,406,Cash Flows,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,,,353,Cash Flows,01/01/2024,123642.8843,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_EXST_DEBT_CF,Interest on Existing Debt - CF,CFF,Cash from Financing,385,Cash Flows,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_OTHER_LIAB_CHANGE,Change in Other non-current Liabilities,CFO,Cash from Operations,376,Cash Flows,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_SALE_PP_AND_E_INTANG,Net Sale (Purchase) of PP&E and Intangible Assets,,,381,Cash Flows,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_OTHER_FINANC_ACTIV,Other Financing Activities,CFF,Cash from Financing,414,Cash Flows,01/01/2024,25811.80274,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,DEFERRED_CONSIDERATION_CF,Deferred Consideration / Earn Out Paid,CFF,Cash from Financing,409,Cash Flows,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_CHANGE_CASH_AND_EQUIV,Net Change in Cash,,,416,Cash Flows,01/01/2024,-6366.857528,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,OTHER_CURRENT_LIAB_CHANGE,Change in other Current Liabilities,WC_CHANGE_CFO,Changes in Working Capital Items,371,Cash Flows,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_EXP_AND_INCOME_TOTAL_CF,Interest Expense and Income - CF,EBITDA_AFTER_EXCEP_CF,EBITDA after Exceptional - CF,350,Cash Flows,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_UNEARNED_REV_CURRENT_CHANGE,Change in Deferred Revenue,WC_CHANGE_CFO,Changes in Working Capital Items,369,Cash Flows,01/01/2024,-165349.4573,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INC,Net Income/(Loss),,,255,Income Statement,01/01/2024,30097.07651,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,OPER_INC,Operating Income (EBIT),,,235,Income Statement,01/01/2024,2545.827836,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,EBT_INCL_XO,Profit Before Tax (PBT),,,253,Income Statement,01/01/2024,28041.03338,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INC_TAX_EXP,Income Tax Expense,NET_INC,Net Income/(Loss),254,Income Statement,01/01/2024,-41523.08729,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,DEPRECIATION,Depreciation,TOTAL_DEPR_AMORT,Total Depreciation & Amortization,231,Income Statement,01/01/2024,-50777.89109,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,GROSS_PROFIT,Gross Profit,,,161,Income Statement,01/01/2024,250529.3141,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,COST_OF_SALES,Cost of Sales,,,160,Income Statement,01/01/2024,-24454.15996,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_REVENUE,Total Revenue,,,79,Income Statement,01/01/2024,86313.49198,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_OTHER,Other Interest Expense,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,243,Income Statement,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,ONEOFF_REVENUE,One-Off fee,TOTAL_REVENUE,Total Revenue,53,Income Statement,01/01/2024,3722.019165,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,PREF_DIV_OTHER,Preferred Dividend & Other Adjustments,NET_INCOME_INCL_EXTRA_ITEMS,Net Income/(Loss) to Common Incl Unusual Items,258,Income Statement,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_OPER_EXP,Total Operating Expenses,,,222,Income Statement,01/01/2024,-9523.172023,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,EXCEPTIONAL_EXP,Exceptional Items,,,229,Income Statement,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INCOME_MINR,Minority Interest - IS,NET_INCOME_EXCL_MIN_INT,Net Income/(Loss) Excluding Minority Interest,256,Income Statement,01/01/2024,0,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,REC_INC_REVENUE,Recurring Income,TOTAL_REVENUE,Total Revenue,52,Income Statement,01/01/2024,157952.3078,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,COMMISSIONS_COGS,Commissions paid,COST_OF_SALES,Cost of Sales,149,Income Statement,01/01/2024,-53372.72577,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_ON_DEBT,Interest on ON Debt Facility,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,237,Income Statement,01/01/2024,-790.9602171,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,LEASE_RENTAL_EXP,Property Rent,TOTAL_OPER_EXP,Total Operating Expenses,195,Income Statement,01/01/2024,-816.638852,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,TOTAL_DEPR_AMORT,Total Depreciation & Amortization,,,234,Income Statement,01/01/2024,-78779.53275,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INC_AFTER_DIV,Retained Profit,,,261,Income Statement,01/01/2024,27709.19053,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,EBITDA_AFTER_EXCEP,EBITDA after Exceptional,,,230,Income Statement,01/01/2024,182399.2663,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,OTHER_NON_OPER_EXP,Other Non-Operating Expenses,TOTAL_OPER_EXP,Total Operating Expenses,221,Income Statement,01/01/2024,-21369.37287,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,EBITDA_BEFORE_EXCEP,EBITDA before Exceptional,,,223,Income Statement,01/01/2024,129597.0624,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INCOME_EXCL_MIN_INT,Net Income/(Loss) Excluding Minority Interest,,,257,Income Statement,01/01/2024,16076.10796,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,OTHER_GENERAL_ADMIN_EXP,Other G&A Expense,TOTAL_OPER_EXP,Total Operating Expenses,193,Income Statement,01/01/2024,-47437.59657,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_SHAREHOLDER_DEBT,Interest on Shareholder Debt,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,242,Income Statement,01/01/2024,-13601.0144,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,NET_INCOME_INCL_EXTRA_ITEMS,Net Income/(Loss) to Common Incl Unusual Items,,,259,Income Statement,01/01/2024,18282.71597,M12-FY24
+B5,Flores  Perez and Chen,73110,Advertising agencies,INTEREST_EXP_AND_INCOME_TOTAL,Total Interest Expense and Income,,,252,Income Statement,01/01/2024,-1519.334423,M12-FY24
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/12/2024,-32152.27816,M10-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/12/2024,-32152.27816,M9-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/12/2024,-32152.27816,M8-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/12/2024,-32152.27816,M7-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/12/2024,-32152.27816,M6-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/12/2024,-32152.27816,M5-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/12/2024,-32152.27816,M4-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/12/2024,-32152.27816,M3-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/12/2024,-32152.27816,M3-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/12/2024,-32152.27816,M1-FY25
+B9,Lee-Gibson,66290,Construction of railways and underground railways,ON_LT_DEBT_REPAID,ON Loan Repaid,CFF,Cash from Financing,394,Cash Flows,01/12/2024,-32152.27816,M12-FY24
