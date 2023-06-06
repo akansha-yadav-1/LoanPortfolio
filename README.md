@@ -1,21 +1,27 @@
 # Loan Portfolio Management Analytics
 
 ## Overview
-As a bank we would like to track how much amount is lent and to whom, for this I have created a Loan Portfolio Management Dashboard
+This project focuses on the development of a Loan Portfolio Management Dashboard for tracking the lending activities of a bank. The dashboard provides insights into the distribution of lent amounts across different sectors and monitors outstanding balances. It also includes risk assessment of borrowers based on their financial statements and tracks covenant benchmarks to ensure compliance.
 
-The dashboard has 3 main tabs:
+## Dashboard Tabs
+The Loan Portfolio Management Dashboard consists of three main tabs:
+
 ### 1. Loan Portfolio Overview
-This gives an overall picture of how the total lent money is distributed accross different sectors and how much is currently outstanding
+This tab presents an overview of the total lent amount and its distribution across various sectors. It provides a snapshot of the outstanding balances in the loan portfolio.
+
 ### 2. Borrower Risk Assessment
-Here I assess the risk associated with different borrowers depending on their Financial Statements, Example - If Net Income is very low compared to amount lent, the borrower is classified as high risk and highlighted on the dashboard
+In this tab, the risk associated with different borrowers is assessed based on their financial statements. For example, borrowers with significantly low net income compared to the amount lent are classified as high risk. The high-risk borrowers are highlighted on the dashboard for easy identification.
+
 ### 3. Covenant Benchmarks
-On this tab I track the status of agreed covenants and if borrowers are meeting the required thresholds, months in which thresholds are not met are highlighted, so see if there is a trend or continous months where thresholds were not met
-Also, I am showing here what is the headroom i.e. by how much the borrowers differ from the set thresholds (positive or negative). Negative headroom is highlighted.
+The Covenant Benchmarks tab tracks the status of agreed loan covenants and monitors whether borrowers are meeting the required thresholds. Months in which the thresholds are not met are highlighted, allowing users to identify trends or continuous periods of non-compliance. Additionally, the tab displays the headroom, indicating the deviation of borrowers from the set thresholds (positive or negative). Negative headroom values are highlighted for quick identification.
 
 ## Design
-The project uses sample input files:
-* `Dummy_Borrowers.csv` - contains information about Borrowers
-* `Dummy_Financial.csv` - contains financial statements like Balance Sheet, Income Statements of Borrowers
-* `Dummy_Covenants.csv` - contains information of agreed loan covenants with their thresholds and status
+The project utilizes the following sample input files:
 
-Some data cleansing and transformations like pivoting are applied to the data in Python using the `Data Cleansing.ipynb` file. Cleaned files are stored in Transformed folder and used in Tableau for Analytics.
+- `Dummy_Borrowers.csv`: Contains borrower information
+- `Dummy_Financial.csv`: Includes financial statements such as balance sheets and income statements of borrowers
+- `Dummy_Covenants.csv`: Provides details of agreed loan covenants, their thresholds, and status
+
+Python is used for data cleansing and transformation tasks, which involve applying operations such as data pivoting. These processes are implemented in the `Data Cleansing.ipynb` file. The cleaned files are then stored in the Transformed folder and utilized in Tableau for generating insightful analytics.
+
+Please note that this is a brief overview of the project. Further details regarding specific analytics and functionalities can be explored within the dashboard itself.
