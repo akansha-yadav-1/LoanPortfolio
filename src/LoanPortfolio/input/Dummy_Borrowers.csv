@@ -1,21 +1,21 @@
 borrower_id,borrower_name,financial_year_start_date,most_recent_data,borrower_currency,borrower_sector_code,borrower_sector_description,monitoring_level,monitoring_status
-B1,Knapp  Brown and Keller,01/05/2022,01/01/2023,GBP,43220,"Plumbing, heat and air-conditioning installation",0,Standard
-B2,Miller  Wood and Wilkinson,01/02/2022,01/01/2023,GBP,66290,Other activities auxiliary to insurance and pension funding,0,Standard
-B3,Smith Ltd,01/01/2022,01/02/2023,GBP,55100,Hotels and similar accommodation,0,Standard
-B4,Porter-Beasley,01/04/2022,01/02/2023,GBP,85590,Other education n.e.c.,0,Standard
-B5,Flores  Perez and Chen,01/07/2022,01/02/2023,GBP,73110,Advertising agencies,0,Standard
-B6,Gutierrez-Martinez,01/02/2022,01/03/2023,GBP,85410,Post-secondary non-tertiary education,0,Standard
-B7,Bauer-Page,01/04/2023,01/03/2023,GBP,55100,Hotels and similar accommodation,0,Standard
-B8,Newman  Harris and Cisneros,01/07/2021,01/03/2023,GBP,56101,Licenced restaurants,0,Standard
-B9,Lee-Gibson,01/04/2021,01/03/2023,GBP,42120,Construction of railways and underground railways,2,Intensive
-B10,Moore  Vasquez and Willis,01/04/2020,01/03/2023,GBP,32500,Manufacture of medical and dental instruments and supplies,0,Standard
-B11,Jones PLC,01/01/2022,01/03/2023,GBP,70221,Financial management,0,Standard
-B12,Gonzales LLC,01/08/2018,01/03/2023,GBP,56101,Licenced restaurants,0,Standard
-B13,Luna-Montgomery,01/04/2016,01/03/2023,GBP,42990,Construction of other civil engineering projects n.e.c.,0,Standard
-B14,White Inc,01/10/2022,01/03/2023,GBP,55100,Hotels and similar accommodation,0,Standard
-B15,Garcia  Gordon and Lopez,01/06/2023,01/04/2023,GBP,28290,Manufacture of other general-purpose machinery n.e.c.,0,Standard
-B16,Smith-Blankenship,01/01/2023,01/04/2023,EUR,55100,Hotels and similar accommodation,0,Standard
-B17,Davis Group,01/07/2022,01/04/2023,GBP,55100,Hotels and similar accommodation,2,Intensive
-B18,Robertson-Todd,01/04/2023,01/04/2023,GBP,43999,Other specialised construction activities n.e.c.,0,Standard
-B19,Woods  Ayers and Jacobs,01/11/2021,01/04/2023,GBP,55100,Hotels and similar accommodation,0,Standard
-B20,Pena LLC,01/07/2021,01/03/2022,GBP,63990,Other information service activities n.e.c.,1,Watchlist
+B1,Knapp  Brown and Keller,2022-05-01,2023-01-01,GBP,43220,"Plumbing, heat and air-conditioning installation",0,Standard
+B2,Miller  Wood and Wilkinson,2022-02-01,2023-01-01,GBP,66290,Other activities auxiliary to insurance and pension funding,0,Standard
+B3,Smith Ltd,2022-01-01,2023-02-01,GBP,55100,Hotels and similar accommodation,0,Standard
+B4,Porter-Beasley,2022-04-01,2023-02-01,GBP,85590,Other education n.e.c.,0,Standard
+B5,Flores  Perez and Chen,2022-07-01,2023-02-01,GBP,73110,Advertising agencies,0,Standard
+B6,Gutierrez-Martinez,2022-02-01,2023-03-01,GBP,85410,Post-secondary non-tertiary education,0,Standard
+B7,Bauer-Page,2023-04-01,2023-03-01,GBP,55100,Hotels and similar accommodation,0,Standard
+B8,Newman  Harris and Cisneros,2021-07-01,2023-03-01,GBP,56101,Licenced restaurants,0,Standard
+B9,Lee-Gibson,2021-04-01,2023-03-01,GBP,42120,Construction of railways and underground railways,2,Intensive
+B10,Moore  Vasquez and Willis,2020-04-01,2023-03-01,GBP,32500,Manufacture of medical and dental instruments and supplies,0,Standard
+B11,Jones PLC,2022-01-01,2023-03-01,GBP,70221,Financial management,0,Standard
+B12,Gonzales LLC,2018-08-01,2023-03-01,GBP,56101,Licenced restaurants,0,Standard
+B13,Luna-Montgomery,2016-04-01,2023-03-01,GBP,42990,Construction of other civil engineering projects n.e.c.,0,Standard
+B14,White Inc,2022-10-01,2023-03-01,GBP,55100,Hotels and similar accommodation,0,Standard
+B15,Garcia  Gordon and Lopez,2023-06-01,2023-04-01,GBP,28290,Manufacture of other general-purpose machinery n.e.c.,0,Standard
+B16,Smith-Blankenship,2023-01-01,2023-04-01,EUR,55100,Hotels and similar accommodation,0,Standard
+B17,Davis Group,2022-07-01,2023-04-01,GBP,55100,Hotels and similar accommodation,2,Intensive
+B18,Robertson-Todd,2023-04-01,2023-04-01,GBP,43999,Other specialised construction activities n.e.c.,0,Standard
+B19,Woods  Ayers and Jacobs,2021-11-01,2023-04-01,GBP,55100,Hotels and similar accommodation,0,Standard
+B20,Pena LLC,2021-07-01,2022-03-01,GBP,63990,Other information service activities n.e.c.,1,Watchlist
