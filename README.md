@@ -13,9 +13,12 @@ This tab presents an overview of the total lent amount and its distribution acro
 In this tab, the risk associated with different borrowers is assessed based on their financial statements. For example, borrowers with significantly low net income compared to the amount lent are classified as high risk. The high-risk borrowers are highlighted on the dashboard for easy identification.
 
 ### 3. Covenant Benchmarks
-The Covenant Benchmarks tab tracks the status of agreed loan covenants and monitors whether borrowers are meeting the required thresholds. Months in which the thresholds are not met are highlighted, allowing users to identify trends or continuous periods of non-compliance. Additionally, the tab displays the headroom, indicating the deviation of borrowers from the set thresholds (positive or negative). Negative headroom values are highlighted for quick identification.
+The Covenant Benchmarks tab tracks the status of agreed loan covenants and monitors whether borrowers are meeting the required thresholds. Months in which the thresholds are not met are highlighted, allowing portfolio managers to identify trends or continuous periods of non-compliance. Additionally, the tab displays the headroom, indicating the deviation of borrowers from the set thresholds (positive or negative). Negative headroom values are highlighted for quick identification.
 
 ## Design
+### Assumptions
+Since loan data was not available, assuming that **Total ON Debt** from Balance Sheet of each borrower is the total amount lent, there are no other lenders. Similarly, **ON Loan Repaid** in Cash Flows is considered Loan Amount paid towards a single lender.
+
 ### Input
 The project utilizes the following sample input files:
 
@@ -28,4 +31,4 @@ Python is used for data cleansing and transformation tasks, which involve applyi
 
 Please note that this is a brief overview of the project. Further details regarding specific analytics and functionalities can be explored within the dashboard itself.
 
-### View the dashboard [here](https://public.tableau.com/views/LoanPortfolioManagement/LoanPortfolioOverview?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link_)
+### Final - View the dashboard [here](https://public.tableau.com/views/LoanPortfolioManagement/LoanPortfolioOverview?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link_)
